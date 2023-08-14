@@ -1,5 +1,7 @@
 Simple Program Description 
 
+(THIS TEXT WRITTEN HERE IS NOT BY ME, THIS IS ALL FROM TCRF)
+
 - "make" Process
   Carry out a "make data" followed by "make" in Directory yoshi/.  Data 
   Archive (bmp/islebmp/libislebmp.a,  bmp/  menubmp/libmenubmp.a, 
