@@ -347,6 +347,7 @@ void bg_init_gameover()
 	Bgmode3();
 }
 
+// i wonder what this was used for?
 void bg_init_dead()
 {
 }
