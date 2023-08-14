@@ -1,0 +1,3183 @@
+Archive member included       because of file (symbol)
+
+C:/agb/lib/libagbsyscall.a(AgbSysCpuSet.o)
+                              sound/m4aLib.o (CpuSet)
+bmp/yosbmp//libyosbmp.a(killer_s1.o)
+                              yos_game_dat.o (_binary_killer_s1_imb_start)
+bmp/yosbmp//libyosbmp.a(egg.o)
+                              yos_game_dat.o (_binary_egg_imb_start)
+bmp/yosbmp//libyosbmp.a(kokamek_a.o)
+                              yos_game_dat.o (_binary_kokamek_a_imb_start)
+bmp/yosbmp//libyosbmp.a(kokamek_c.o)
+                              yos_game_dat.o (_binary_kokamek_c_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRA1.o)
+                              yos_game_dat.o (_binary_HANABIRA1_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRA2.o)
+                              yos_game_dat.o (_binary_HANABIRA2_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRA3.o)
+                              yos_game_dat.o (_binary_HANABIRA3_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAn_1.o)
+                              yos_game_dat.o (_binary_HANABIRAn_1_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAn_2.o)
+                              yos_game_dat.o (_binary_HANABIRAn_2_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAn_3.o)
+                              yos_game_dat.o (_binary_HANABIRAn_3_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAy_1.o)
+                              yos_game_dat.o (_binary_HANABIRAy_1_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAy_2.o)
+                              yos_game_dat.o (_binary_HANABIRAy_2_imb_start)
+bmp/yosbmp//libyosbmp.a(HANABIRAy_3.o)
+                              yos_game_dat.o (_binary_HANABIRAy_3_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi1.o)
+                              yos_game_dat.o (_binary_hosi1_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi2.o)
+                              yos_game_dat.o (_binary_hosi2_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi3.o)
+                              yos_game_dat.o (_binary_hosi3_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi4.o)
+                              yos_game_dat.o (_binary_hosi4_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi5.o)
+                              yos_game_dat.o (_binary_hosi5_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi6.o)
+                              yos_game_dat.o (_binary_hosi6_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi7.o)
+                              yos_game_dat.o (_binary_hosi7_imb_start)
+bmp/yosbmp//libyosbmp.a(hosi8.o)
+                              yos_game_dat.o (_binary_hosi8_imb_start)
+bmp/yosbmp//libyosbmp.a(kage0.o)
+                              yos_game_dat.o (_binary_kage0_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata1.o)
+                              yos_game_dat.o (_binary_batabata1_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata2.o)
+                              yos_game_dat.o (_binary_batabata2_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata3.o)
+                              yos_game_dat.o (_binary_batabata3_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata4.o)
+                              yos_game_dat.o (_binary_batabata4_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata5.o)
+                              yos_game_dat.o (_binary_batabata5_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata6.o)
+                              yos_game_dat.o (_binary_batabata6_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata7.o)
+                              yos_game_dat.o (_binary_batabata7_imb_start)
+bmp/yosbmp//libyosbmp.a(batabata8.o)
+                              yos_game_dat.o (_binary_batabata8_imb_start)
+bmp/yosbmp//libyosbmp.a(kagel.o)
+                              yos_game_dat.o (_binary_kagel_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon.o)
+                              yos_game_dat.o (_binary_balloon_imb_start)
+bmp/yosbmp//libyosbmp.a(omori5t.o)
+                              yos_game_dat.o (_binary_omori5t_imb_start)
+bmp/yosbmp//libyosbmp.a(bomb_1.o)
+                              yos_game_dat.o (_binary_bomb_1_imb_start)
+bmp/yosbmp//libyosbmp.a(dokan.o)
+                              yos_game_dat.o (_binary_dokan_imb_start)
+bmp/yosbmp//libyosbmp.a(hana.o)
+                              yos_game_dat.o (_binary_hana_imb_start)
+bmp/yosbmp//libyosbmp.a(kuki.o)
+                              yos_game_dat.o (_binary_kuki_imb_start)
+bmp/yosbmp//libyosbmp.a(toge.o)
+                              yos_game_dat.o (_binary_toge_imb_start)
+bmp/yosbmp//libyosbmp.a(kumo_nuki_l.o)
+                              yos_game_dat.o (_binary_kumo_nuki_l_imb_start)
+bmp/yosbmp//libyosbmp.a(kumo_nuki_r.o)
+                              yos_game_dat.o (_binary_kumo_nuki_r_imb_start)
+bmp/yosbmp//libyosbmp.a(koumori.o)
+                              yos_game_dat.o (_binary_koumori_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey1.o)
+                              yos_anm.o (_binary_PS_hey1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey2.o)
+                              yos_anm.o (_binary_PS_hey2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey3.o)
+                              yos_anm.o (_binary_PS_hey3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey4.o)
+                              yos_anm.o (_binary_PS_hey4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey5.o)
+                              yos_anm.o (_binary_PS_hey5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey6.o)
+                              yos_anm.o (_binary_PS_hey6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey7.o)
+                              yos_anm.o (_binary_PS_hey7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_hey8.o)
+                              yos_anm.o (_binary_PS_hey8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump1.o)
+                              yos_anm.o (_binary_PS_jump1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump2.o)
+                              yos_anm.o (_binary_PS_jump2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump3.o)
+                              yos_anm.o (_binary_PS_jump3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump4.o)
+                              yos_anm.o (_binary_PS_jump4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump5.o)
+                              yos_anm.o (_binary_PS_jump5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump6.o)
+                              yos_anm.o (_binary_PS_jump6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump7.o)
+                              yos_anm.o (_binary_PS_jump7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_jump8.o)
+                              yos_anm.o (_binary_PS_jump8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kihon_M.o)
+                              yos_anm.o (_binary_PS_kihon_M_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kihon_Y.o)
+                              yos_anm.o (_binary_PS_kihon_Y_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B.o)
+                              yos_anm.o (_binary_PS_kyoro_B_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B10.o)
+                              yos_anm.o (_binary_PS_kyoro_B10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B11.o)
+                              yos_anm.o (_binary_PS_kyoro_B11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B2.o)
+                              yos_anm.o (_binary_PS_kyoro_B2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B3.o)
+                              yos_anm.o (_binary_PS_kyoro_B3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B4.o)
+                              yos_anm.o (_binary_PS_kyoro_B4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B5.o)
+                              yos_anm.o (_binary_PS_kyoro_B5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B6.o)
+                              yos_anm.o (_binary_PS_kyoro_B6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B7.o)
+                              yos_anm.o (_binary_PS_kyoro_B7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B8.o)
+                              yos_anm.o (_binary_PS_kyoro_B8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_B9.o)
+                              yos_anm.o (_binary_PS_kyoro_B9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M10.o)
+                              yos_anm.o (_binary_PS_kyoro_M10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M11.o)
+                              yos_anm.o (_binary_PS_kyoro_M11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M2.o)
+                              yos_anm.o (_binary_PS_kyoro_M2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M3.o)
+                              yos_anm.o (_binary_PS_kyoro_M3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M4.o)
+                              yos_anm.o (_binary_PS_kyoro_M4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M5.o)
+                              yos_anm.o (_binary_PS_kyoro_M5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M6.o)
+                              yos_anm.o (_binary_PS_kyoro_M6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M7.o)
+                              yos_anm.o (_binary_PS_kyoro_M7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M8.o)
+                              yos_anm.o (_binary_PS_kyoro_M8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_M9.o)
+                              yos_anm.o (_binary_PS_kyoro_M9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y10.o)
+                              yos_anm.o (_binary_PS_kyoro_Y10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y11.o)
+                              yos_anm.o (_binary_PS_kyoro_Y11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y2.o)
+                              yos_anm.o (_binary_PS_kyoro_Y2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y3.o)
+                              yos_anm.o (_binary_PS_kyoro_Y3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y4.o)
+                              yos_anm.o (_binary_PS_kyoro_Y4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y5.o)
+                              yos_anm.o (_binary_PS_kyoro_Y5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y6.o)
+                              yos_anm.o (_binary_PS_kyoro_Y6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y7.o)
+                              yos_anm.o (_binary_PS_kyoro_Y7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y8.o)
+                              yos_anm.o (_binary_PS_kyoro_Y8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_Y9.o)
+                              yos_anm.o (_binary_PS_kyoro_Y9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR10.o)
+                              yos_anm.o (_binary_PS_kyoro_YR10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR11.o)
+                              yos_anm.o (_binary_PS_kyoro_YR11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR2.o)
+                              yos_anm.o (_binary_PS_kyoro_YR2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR3.o)
+                              yos_anm.o (_binary_PS_kyoro_YR3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR4.o)
+                              yos_anm.o (_binary_PS_kyoro_YR4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR5.o)
+                              yos_anm.o (_binary_PS_kyoro_YR5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR6.o)
+                              yos_anm.o (_binary_PS_kyoro_YR6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR7.o)
+                              yos_anm.o (_binary_PS_kyoro_YR7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR8.o)
+                              yos_anm.o (_binary_PS_kyoro_YR8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_kyoro_YR9.o)
+                              yos_anm.o (_binary_PS_kyoro_YR9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B2.o)
+                              yos_anm.o (_binary_PS_MEPACHI_B2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B3.o)
+                              yos_anm.o (_binary_PS_MEPACHI_B3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B4.o)
+                              yos_anm.o (_binary_PS_MEPACHI_B4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B5.o)
+                              yos_anm.o (_binary_PS_MEPACHI_B5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B6.o)
+                              yos_anm.o (_binary_PS_MEPACHI_B6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M2.o)
+                              yos_anm.o (_binary_PS_MEPACHI_M2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M3.o)
+                              yos_anm.o (_binary_PS_MEPACHI_M3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M4.o)
+                              yos_anm.o (_binary_PS_MEPACHI_M4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M5.o)
+                              yos_anm.o (_binary_PS_MEPACHI_M5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M6.o)
+                              yos_anm.o (_binary_PS_MEPACHI_M6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y2.o)
+                              yos_anm.o (_binary_PS_MEPACHI_Y2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y3.o)
+                              yos_anm.o (_binary_PS_MEPACHI_Y3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y4.o)
+                              yos_anm.o (_binary_PS_MEPACHI_Y4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y5.o)
+                              yos_anm.o (_binary_PS_MEPACHI_Y5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y6.o)
+                              yos_anm.o (_binary_PS_MEPACHI_Y6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back1.o)
+                              yos_anm.o (_binary_PS_turn_back1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back2.o)
+                              yos_anm.o (_binary_PS_turn_back2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back3.o)
+                              yos_anm.o (_binary_PS_turn_back3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back4.o)
+                              yos_anm.o (_binary_PS_turn_back4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back5.o)
+                              yos_anm.o (_binary_PS_turn_back5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back6.o)
+                              yos_anm.o (_binary_PS_turn_back6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_back7.o)
+                              yos_anm.o (_binary_PS_turn_back7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L1.o)
+                              yos_anm.o (_binary_PS_turn_L1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L2.o)
+                              yos_anm.o (_binary_PS_turn_L2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L3.o)
+                              yos_anm.o (_binary_PS_turn_L3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L4.o)
+                              yos_anm.o (_binary_PS_turn_L4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L5.o)
+                              yos_anm.o (_binary_PS_turn_L5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L6.o)
+                              yos_anm.o (_binary_PS_turn_L6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_L7.o)
+                              yos_anm.o (_binary_PS_turn_L7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae1.o)
+                              yos_anm.o (_binary_PS_turn_mae1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae2.o)
+                              yos_anm.o (_binary_PS_turn_mae2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae3.o)
+                              yos_anm.o (_binary_PS_turn_mae3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae4.o)
+                              yos_anm.o (_binary_PS_turn_mae4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae5.o)
+                              yos_anm.o (_binary_PS_turn_mae5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae6.o)
+                              yos_anm.o (_binary_PS_turn_mae6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn_mae7.o)
+                              yos_anm.o (_binary_PS_turn_mae7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn1.o)
+                              yos_anm.o (_binary_PS_turn1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn2.o)
+                              yos_anm.o (_binary_PS_turn2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn3.o)
+                              yos_anm.o (_binary_PS_turn3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn4.o)
+                              yos_anm.o (_binary_PS_turn4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn5.o)
+                              yos_anm.o (_binary_PS_turn5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn6.o)
+                              yos_anm.o (_binary_PS_turn6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_turn7.o)
+                              yos_anm.o (_binary_PS_turn7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn1.o)
+                              yos_anm.o (_binary_PS_U_turn1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn2.o)
+                              yos_anm.o (_binary_PS_U_turn2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn3.o)
+                              yos_anm.o (_binary_PS_U_turn3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn4.o)
+                              yos_anm.o (_binary_PS_U_turn4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn5.o)
+                              yos_anm.o (_binary_PS_U_turn5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn6.o)
+                              yos_anm.o (_binary_PS_U_turn6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn7.o)
+                              yos_anm.o (_binary_PS_U_turn7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_U_turn8.o)
+                              yos_anm.o (_binary_PS_U_turn8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B1.o)
+                              yos_anm.o (_binary_PS_walk_B1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B10.o)
+                              yos_anm.o (_binary_PS_walk_B10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B11.o)
+                              yos_anm.o (_binary_PS_walk_B11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B12.o)
+                              yos_anm.o (_binary_PS_walk_B12_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B13.o)
+                              yos_anm.o (_binary_PS_walk_B13_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B14.o)
+                              yos_anm.o (_binary_PS_walk_B14_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B15.o)
+                              yos_anm.o (_binary_PS_walk_B15_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B16.o)
+                              yos_anm.o (_binary_PS_walk_B16_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B2.o)
+                              yos_anm.o (_binary_PS_walk_B2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B3.o)
+                              yos_anm.o (_binary_PS_walk_B3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B4.o)
+                              yos_anm.o (_binary_PS_walk_B4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B5.o)
+                              yos_anm.o (_binary_PS_walk_B5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B6.o)
+                              yos_anm.o (_binary_PS_walk_B6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B7.o)
+                              yos_anm.o (_binary_PS_walk_B7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B8.o)
+                              yos_anm.o (_binary_PS_walk_B8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_B9.o)
+                              yos_anm.o (_binary_PS_walk_B9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M1.o)
+                              yos_anm.o (_binary_PS_walk_M1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M10.o)
+                              yos_anm.o (_binary_PS_walk_M10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M11.o)
+                              yos_anm.o (_binary_PS_walk_M11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M12.o)
+                              yos_anm.o (_binary_PS_walk_M12_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M13.o)
+                              yos_anm.o (_binary_PS_walk_M13_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M14.o)
+                              yos_anm.o (_binary_PS_walk_M14_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M15.o)
+                              yos_anm.o (_binary_PS_walk_M15_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M16.o)
+                              yos_anm.o (_binary_PS_walk_M16_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M2.o)
+                              yos_anm.o (_binary_PS_walk_M2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M3.o)
+                              yos_anm.o (_binary_PS_walk_M3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M4.o)
+                              yos_anm.o (_binary_PS_walk_M4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M5.o)
+                              yos_anm.o (_binary_PS_walk_M5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M6.o)
+                              yos_anm.o (_binary_PS_walk_M6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M7.o)
+                              yos_anm.o (_binary_PS_walk_M7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M8.o)
+                              yos_anm.o (_binary_PS_walk_M8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_M9.o)
+                              yos_anm.o (_binary_PS_walk_M9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y1.o)
+                              yos_anm.o (_binary_PS_walk_Y1_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y2.o)
+                              yos_anm.o (_binary_PS_walk_Y2_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y3.o)
+                              yos_anm.o (_binary_PS_walk_Y3_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y4.o)
+                              yos_anm.o (_binary_PS_walk_Y4_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y5.o)
+                              yos_anm.o (_binary_PS_walk_Y5_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y6.o)
+                              yos_anm.o (_binary_PS_walk_Y6_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y7.o)
+                              yos_anm.o (_binary_PS_walk_Y7_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y8.o)
+                              yos_anm.o (_binary_PS_walk_Y8_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y9.o)
+                              yos_anm.o (_binary_PS_walk_Y9_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y10.o)
+                              yos_anm.o (_binary_PS_walk_Y10_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y11.o)
+                              yos_anm.o (_binary_PS_walk_Y11_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y12.o)
+                              yos_anm.o (_binary_PS_walk_Y12_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y13.o)
+                              yos_anm.o (_binary_PS_walk_Y13_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y14.o)
+                              yos_anm.o (_binary_PS_walk_Y14_imb_start)
+bmp/yosbmp//libyosbmp.a(PS_walk_Y15.o)
+                              yos_anm.o (_binary_PS_walk_Y15_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_001.o)
+                              yos_anm.o (_binary_HEIHO929_001_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_003.o)
+                              yos_anm.o (_binary_HEIHO929_003_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_005.o)
+                              yos_anm.o (_binary_HEIHO929_005_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_007.o)
+                              yos_anm.o (_binary_HEIHO929_007_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_009.o)
+                              yos_anm.o (_binary_HEIHO929_009_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_011.o)
+                              yos_anm.o (_binary_HEIHO929_011_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_013.o)
+                              yos_anm.o (_binary_HEIHO929_013_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_015.o)
+                              yos_anm.o (_binary_HEIHO929_015_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_002_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_003_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_001_b.o)
+                              yos_anm.o (_binary_HEIHO929_001_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_003_b.o)
+                              yos_anm.o (_binary_HEIHO929_003_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_005_b.o)
+                              yos_anm.o (_binary_HEIHO929_005_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_007_b.o)
+                              yos_anm.o (_binary_HEIHO929_007_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_009_b.o)
+                              yos_anm.o (_binary_HEIHO929_009_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_011_b.o)
+                              yos_anm.o (_binary_HEIHO929_011_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_013_b.o)
+                              yos_anm.o (_binary_HEIHO929_013_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_015_b.o)
+                              yos_anm.o (_binary_HEIHO929_015_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_b.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_002_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_b.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_003_b_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_001_g.o)
+                              yos_anm.o (_binary_HEIHO929_001_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_003_g.o)
+                              yos_anm.o (_binary_HEIHO929_003_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_005_g.o)
+                              yos_anm.o (_binary_HEIHO929_005_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_007_g.o)
+                              yos_anm.o (_binary_HEIHO929_007_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_009_g.o)
+                              yos_anm.o (_binary_HEIHO929_009_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_011_g.o)
+                              yos_anm.o (_binary_HEIHO929_011_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_013_g.o)
+                              yos_anm.o (_binary_HEIHO929_013_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_015_g.o)
+                              yos_anm.o (_binary_HEIHO929_015_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_g.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_002_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_g.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_003_g_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_001_y.o)
+                              yos_anm.o (_binary_HEIHO929_001_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_003_y.o)
+                              yos_anm.o (_binary_HEIHO929_003_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_005_y.o)
+                              yos_anm.o (_binary_HEIHO929_005_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_007_y.o)
+                              yos_anm.o (_binary_HEIHO929_007_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_009_y.o)
+                              yos_anm.o (_binary_HEIHO929_009_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_011_y.o)
+                              yos_anm.o (_binary_HEIHO929_011_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_013_y.o)
+                              yos_anm.o (_binary_HEIHO929_013_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO929_015_y.o)
+                              yos_anm.o (_binary_HEIHO929_015_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_y.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_002_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_y.o)
+                              yos_anm.o (_binary_HEIHO_normal_walk_turn_003_y_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_001.o)
+                              yos_anm.o (_binary_HEIHO_l_001_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_003.o)
+                              yos_anm.o (_binary_HEIHO_l_003_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_005.o)
+                              yos_anm.o (_binary_HEIHO_l_005_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_007.o)
+                              yos_anm.o (_binary_HEIHO_l_007_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_009.o)
+                              yos_anm.o (_binary_HEIHO_l_009_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_011.o)
+                              yos_anm.o (_binary_HEIHO_l_011_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_013.o)
+                              yos_anm.o (_binary_HEIHO_l_013_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_015.o)
+                              yos_anm.o (_binary_HEIHO_l_015_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_turn_002.o)
+                              yos_anm.o (_binary_HEIHO_l_turn_002_imb_start)
+bmp/yosbmp//libyosbmp.a(HEIHO_l_turn_003.o)
+                              yos_anm.o (_binary_HEIHO_l_turn_003_imb_start)
+bmp/yosbmp//libyosbmp.a(mBOX1.o)
+                              yos_anm.o (_binary_mBOX1_imb_start)
+bmp/yosbmp//libyosbmp.a(mBOX2.o)
+                              yos_anm.o (_binary_mBOX2_imb_start)
+bmp/yosbmp//libyosbmp.a(DDDD_A.o)
+                              yos_anm.o (_binary_DDDD_A_imb_start)
+bmp/yosbmp//libyosbmp.a(DDDD_B.o)
+                              yos_anm.o (_binary_DDDD_B_imb_start)
+bmp/yosbmp//libyosbmp.a(DDDD_C.o)
+                              yos_anm.o (_binary_DDDD_C_imb_start)
+bmp/yosbmp//libyosbmp.a(CCCC_A.o)
+                              yos_anm.o (_binary_CCCC_A_imb_start)
+bmp/yosbmp//libyosbmp.a(CCCC_B.o)
+                              yos_anm.o (_binary_CCCC_B_imb_start)
+bmp/yosbmp//libyosbmp.a(CCCC_C.o)
+                              yos_anm.o (_binary_CCCC_C_imb_start)
+bmp/yosbmp//libyosbmp.a(NNNN_A.o)
+                              yos_anm.o (_binary_NNNN_A_imb_start)
+bmp/yosbmp//libyosbmp.a(NNNN_B.o)
+                              yos_anm.o (_binary_NNNN_B_imb_start)
+bmp/yosbmp//libyosbmp.a(NNNN_C.o)
+                              yos_anm.o (_binary_NNNN_C_imb_start)
+bmp/yosbmp//libyosbmp.a(SSSS_A.o)
+                              yos_anm.o (_binary_SSSS_A_imb_start)
+bmp/yosbmp//libyosbmp.a(SSSS_B.o)
+                              yos_anm.o (_binary_SSSS_B_imb_start)
+bmp/yosbmp//libyosbmp.a(SSSS_C.o)
+                              yos_anm.o (_binary_SSSS_C_imb_start)
+bmp/yosbmp//libyosbmp.a(sPPPP_A.o)
+                              yos_anm.o (_binary_sPPPP_A_imb_start)
+bmp/yosbmp//libyosbmp.a(sPPPP_B.o)
+                              yos_anm.o (_binary_sPPPP_B_imb_start)
+bmp/yosbmp//libyosbmp.a(sPPPP_C.o)
+                              yos_anm.o (_binary_sPPPP_C_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_s2.o)
+                              yos_anm.o (_binary_killer_s2_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_s3.o)
+                              yos_anm.o (_binary_killer_s3_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sA.o)
+                              yos_anm.o (_binary_killer_sA_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sAA.o)
+                              yos_anm.o (_binary_killer_sAA_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sB.o)
+                              yos_anm.o (_binary_killer_sB_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sC.o)
+                              yos_anm.o (_binary_killer_sC_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sD.o)
+                              yos_anm.o (_binary_killer_sD_imb_start)
+bmp/yosbmp//libyosbmp.a(killer_sE.o)
+                              yos_anm.o (_binary_killer_sE_imb_start)
+bmp/yosbmp//libyosbmp.a(kokamek_d.o)
+                              yos_anm.o (_binary_kokamek_d_imb_start)
+bmp/yosbmp//libyosbmp.a(kokamek_e.o)
+                              yos_anm.o (_binary_kokamek_e_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi1.o)
+                              yos_anm.o (_binary_kururi1_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi2.o)
+                              yos_anm.o (_binary_kururi2_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi3.o)
+                              yos_anm.o (_binary_kururi3_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi4.o)
+                              yos_anm.o (_binary_kururi4_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi5.o)
+                              yos_anm.o (_binary_kururi5_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi6.o)
+                              yos_anm.o (_binary_kururi6_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi7.o)
+                              yos_anm.o (_binary_kururi7_imb_start)
+bmp/yosbmp//libyosbmp.a(kururi8.o)
+                              yos_anm.o (_binary_kururi8_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon01.o)
+                              yos_anm.o (_binary_balloon01_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon02.o)
+                              yos_anm.o (_binary_balloon02_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon03.o)
+                              yos_anm.o (_binary_balloon03_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon04.o)
+                              yos_anm.o (_binary_balloon04_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon05.o)
+                              yos_anm.o (_binary_balloon05_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon06.o)
+                              yos_anm.o (_binary_balloon06_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon07.o)
+                              yos_anm.o (_binary_balloon07_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon08.o)
+                              yos_anm.o (_binary_balloon08_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon09.o)
+                              yos_anm.o (_binary_balloon09_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon10.o)
+                              yos_anm.o (_binary_balloon10_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon11.o)
+                              yos_anm.o (_binary_balloon11_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon12.o)
+                              yos_anm.o (_binary_balloon12_imb_start)
+bmp/yosbmp//libyosbmp.a(balloon13.o)
+                              yos_anm.o (_binary_balloon13_imb_start)
+bmp/yosbmp//libyosbmp.a(bomb_2.o)
+                              yos_anm.o (_binary_bomb_2_imb_start)
+bmp/yosbmp//libyosbmp.a(bomb_3.o)
+                              yos_anm.o (_binary_bomb_3_imb_start)
+bmp/yosbmp//libyosbmp.a(bomb_4.o)
+                              yos_anm.o (_binary_bomb_4_imb_start)
+bmp/yosbmp//libyosbmp.a(bomb_5.o)
+                              yos_anm.o (_binary_bomb_5_imb_start)
+bmp/yosbmp//libyosbmp.a(casle1p.o)
+                              bg_proc.o (_binary_casle1p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle3p.o)
+                              bg_proc.o (_binary_casle3p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle4p.o)
+                              bg_proc.o (_binary_casle4p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle5p.o)
+                              bg_proc.o (_binary_casle5p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle6p.o)
+                              bg_proc.o (_binary_casle6p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle7p.o)
+                              bg_proc.o (_binary_casle7p_imb_start)
+bmp/yosbmp//libyosbmp.a(casle1.o)
+                              bg_proc.o (_binary_casle1_imb_start)
+bmp/yosbmp//libyosbmp.a(casle3.o)
+                              bg_proc.o (_binary_casle3_imb_start)
+bmp/yosbmp//libyosbmp.a(casle4.o)
+                              bg_proc.o (_binary_casle4_imb_start)
+bmp/yosbmp//libyosbmp.a(casle5.o)
+                              bg_proc.o (_binary_casle5_imb_start)
+bmp/yosbmp//libyosbmp.a(casle6.o)
+                              bg_proc.o (_binary_casle6_imb_start)
+bmp/yosbmp//libyosbmp.a(casle7.o)
+                              bg_proc.o (_binary_casle7_imb_start)
+bmp/yosbgbmp//libyosbgbmp.a(bg1.o)
+                              bg_proc.o (bg1_Palette)
+bmp/yosbgbmp//libyosbgbmp.a(bg2.o)
+                              bg_proc.o (bg2_Character)
+bmp/yosbgbmp//libyosbgbmp.a(bg3.o)
+                              bg_proc.o (bg3_Character)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_1.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_1_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_10.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_10_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_11.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_11_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_12.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_12_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_13.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_13_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_14.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_14_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_15.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_15_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_16.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_16_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_17.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_17_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_18.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_18_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_19.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_19_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_2.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_2_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_20.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_20_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_21.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_21_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_22.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_22_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_23.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_23_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_24.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_24_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_25.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_25_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_26.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_26_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_27.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_27_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_28.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_28_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_29.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_29_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_3.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_3_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_30.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_30_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_31.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_31_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_32.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_32_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_33.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_33_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_34.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_34_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_35.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_35_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_36.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_36_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_37.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_37_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_38.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_38_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_39.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_39_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_4.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_4_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_40.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_40_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_41.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_41_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_42.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_42_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_43.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_43_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_44.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_44_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_45.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_45_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_46.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_46_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_47.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_47_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_48.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_48_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_49.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_49_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_5.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_5_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_50.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_50_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_51.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_51_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_52.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_52_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_53.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_53_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_54.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_54_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_55.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_55_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_56.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_56_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_57.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_57_mpb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_58.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_58_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_59.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_59_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_6.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_6_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_60.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_60_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_7.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_7_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_8.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_8_imb_start)
+bmp/islebmp//libislebmp.a(yoshi_island_990907_0_9.o)
+                              menu_dat.o (_binary_yoshi_island_990907_0_9_mpb_start)
+bmp/menubmp//libmenubmp.a(umi64.o)
+                              menu.o (_binary_umi64_imb_start)
+bmp/menubmp//libmenubmp.a(kumo.o)
+                              menu.o (_binary_kumo_imb_start)
+bmp/menubmp//libmenubmp.a(grade.o)
+                              menu.o (_binary_grade_imb_start)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_call_via_rX.o)
+                              yos_game.o (_call_via_r0)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_divsi3.o)
+                              bg_proc.o (__divsi3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_dvmd_tls.o)
+                              C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_divsi3.o) (__div0)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+                              bg_proc.o (__fixunssfsi)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_modsi3.o)
+                              yos_game_mov.o (__modsi3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_umodsi3.o)
+                              yos_game_pr.o (__umodsi3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+                              bg_proc.o (__addsf3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+                              C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o) (__muldi3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+                              C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o) (__make_dp)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+                              C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o) (__lshrdi3)
+C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+                              C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o) (__negdi2)
+
+Allocating common symbols
+Common symbol       size              file
+
+Bg1                 0x18              bg_proc.o
+Bg3                 0x18              bg_proc.o
+p0_h_org_b          0x1c8             menu.o
+bg2pa               0x4               bg_proc.o
+m4a_sound           0xfb0             sound/m4aLib.o
+Bg1_Offset_X        0x4               bg_proc.o
+Biyoon_Count        0x4               bg_proc.o
+p1_line_count       0x4               yos_game.o
+tileY               0x4               bg_proc.o
+IntrTable           0x3c              yos_main.o
+bg2pb               0x4               bg_proc.o
+rot_center_x        0x4               bg_proc.o
+move_val_y          0x4               bg_proc.o
+p1_yoshiWork        0x1a8             yos_game.o
+p0_h_bg2p           0x800             menu.o
+MapY                0x4               bg_proc.o
+scale_x             0x4               bg_proc.o
+Bg3_ScreenDat       0x800             bg_proc.o
+OamNode             0x600             oam_proc.o
+scale_y             0x4               bg_proc.o
+m4a_mplay000        0x40              sound/SoundDat.o
+ExtMPlyJmpTbl       0x90              sound/m4aLib.o
+dmaReqNum           0x4               oam_proc.o
+oamWaitFlg          0x4               oam_proc.o
+p0_isle_frm         0x4               menu.o
+SoundSize           0x4               bg_proc.o
+Bg3_Offset_Y        0x4               bg_proc.o
+p1_sub_status       0x4               yos_game.o
+prev_y              0x4               bg_proc.o
+p1_kokamekWork      0xb0              yos_game.o
+Bg1_Offset_Y        0x4               bg_proc.o
+Bg_Mode             0x4               bg_proc.o
+p0_hsy_org          0x4               menu.o
+p1_eggWork          0x84              yos_game.o
+Sa                  0x4               bg_proc.o
+p1_hanabiraWork     0x160             yos_game.o
+m4a_cgbchn          0x100             sound/m4aLib.o
+Bg2                 0x18              bg_proc.o
+rot_center_y        0x4               bg_proc.o
+p0_count            0x4               menu.o
+bg2pd               0x4               bg_proc.o
+p1_effWork          0x480             yos_game.o
+dmaReqArray         0x300             oam_proc.o
+Counter             0x4               bg_proc.o
+m4a_mplay001        0x40              sound/SoundDat.o
+p0_BgBak            0x400             menu.o
+m4a_mplay002        0x40              sound/SoundDat.o
+gMain               0xc14             yos_main.o
+OamList             0xc               oam_proc.o
+rotate_value        0x4               bg_proc.o
+Bg1_ScreenDat       0x1000            bg_proc.o
+bg2_center_x        0x4               bg_proc.o
+prev_x              0x4               bg_proc.o
+p1_charWork         0x840             yos_game.o
+p0_h_tmp_b          0x1c8             menu.o
+bg2pc               0x4               bg_proc.o
+tileX               0x4               bg_proc.o
+Bg2_ScreenDat       0x800             bg_proc.o
+bg2_center_y        0x4               bg_proc.o
+MapX                0x4               bg_proc.o
+m4a_memacc_area     0x10              sound/SoundDat.o
+anmWork             0x500             oam_proc.o
+p1_gGame            0x20              yos_game.o
+oamNode_end         0x4               oam_proc.o
+affineWork          0x300             oam_proc.o
+move_val_x          0x4               bg_proc.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD crt0.o
+LOAD yos_game.o
+LOAD yos_game_dat.o
+LOAD yos_anm.o
+LOAD bg_proc.o
+LOAD yos_game_sub.o
+LOAD yos_game_mov.o
+LOAD yos_game_pr.o
+LOAD yos_main.o
+LOAD yos_main_dat.o
+LOAD oam_proc.o
+LOAD menu.o
+LOAD menu_dat.o
+LOAD sound/m4aLib.o
+LOAD sound/SoundDat.o
+LOAD sound/i_mari.o
+LOAD sound/i_b_sx.o
+LOAD sound/i_vibe.o
+LOAD sound/i_bscl.o
+LOAD sound/i_strg.o
+LOAD sound/i_bell.o
+LOAD sound/i_timp.o
+LOAD sound/ov_sir2.o
+LOAD sound/y_upup.o
+LOAD sound/y_jmph1.o
+LOAD sound/y_jmpy1.o
+LOAD sound/y_jmpfm.o
+LOAD sound/y_dwnau.o
+LOAD sound/y_ywiha.o
+LOAD sound/ov_arra.o
+LOAD sound/y_stpn1.o
+LOAD sound/y_stph1.o
+LOAD sound/y_tont1.o
+LOAD sound/y_tont2.o
+LOAD sound/y_jmpst.o
+LOAD sound/y_pakon.o
+LOAD sound/y_runtn.o
+LOAD sound/y_stpqu.o
+LOAD sound/y_dmgn1.o
+LOAD sound/y_dmgn2.o
+LOAD sound/ht_atar.o
+LOAD sound/ov_konn.o
+LOAD sound/e_onpp1.o
+LOAD sound/e_derup.o
+LOAD sound/e_torup.o
+LOAD sound/i_drm1.o
+LOAD sound/i_drm2.o
+LOAD sound/ov_shaa.o
+LOAD sound/ki_sid2.o
+LOAD sound/t5_undr.o
+LOAD sound/t5_dsin.o
+LOAD sound/ov_basa.o
+LOAD sound/ov_hkob.o
+LOAD sound/ht_ware.o
+LOAD sound/tg_raka.o
+LOAD sound/km_ukuu.o
+LOAD sound/bm_atri.o
+LOAD sound/c_gaonn.o
+LOAD sound/i_elsn.o
+LOAD sound/y_hipkr.o
+LOAD sound/y_hipha.o
+LOAD sound/i_vb_t.o
+LOAD sound/mm_1game.o
+LOAD sound/mm_gover.o
+LOAD sound/my_hipkr.o
+LOAD sound/my_hipha.o
+LOAD sound/my_stpn1.o
+LOAD sound/my_jmph1.o
+LOAD sound/my_jmpy1.o
+LOAD sound/my_jmpfm.o
+LOAD sound/my_dwnau.o
+LOAD sound/mov_arra.o
+LOAD sound/mtp_stat.o
+LOAD sound/my_stph1.o
+LOAD sound/my_tont1.o
+LOAD sound/my_tont2.o
+LOAD sound/my_upup.o
+LOAD sound/my_jmpst.o
+LOAD sound/my_pakon.o
+LOAD sound/my_dmgn1.o
+LOAD sound/my_dmgn2.o
+LOAD sound/me_onpp2.o
+LOAD sound/me_onpp1.o
+LOAD sound/me_derup.o
+LOAD sound/me_torup.o
+LOAD sound/mm_title.o
+LOAD sound/mh_kaitn.o
+LOAD sound/mki_sid1.o
+LOAD sound/mki_sid2.o
+LOAD sound/m5t_dsin.o
+LOAD sound/me_onpp3.o
+LOAD sound/mtg_raka.o
+LOAD sound/mkm_ukuu.o
+LOAD sound/mc_gaonn.o
+LOAD sound/mht_apir.o
+LOAD sound/mht_ware.o
+LOAD sound/mht_atar.o
+LOAD C:/agb/lib/libisagbprn.a
+LOAD C:/agb/lib/libagbsyscall.a
+LOAD bmp/yosbmp//libyosbmp.a
+LOAD bmp/yosbgbmp//libyosbgbmp.a
+LOAD bmp/islebmp//libislebmp.a
+LOAD bmp/menubmp//libmenubmp.a
+LOAD C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a
+LOAD C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/../../../../thumb-elf/lib/libg.a
+LOAD C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/../../../../thumb-elf/lib/libc.a
+LOAD C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a
+Address of section .text set to 0x8000000
+Address of section .bss set to 0x3000000
+                0x00008000                .=0x8000
+
+.interp
+ *(.interp)
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+
+.text           0x08000000     0xbf58
+ *(.text)
+ .text          0x08000000      0x1cc crt0.o
+                0x08000000                _start
+                0x080000c0                start_vector
+                0x080000fc                intr_main
+ .text          0x080001cc      0xa9c yos_game.o
+                0x080001cc                yos_game
+ .text          0x08000c68      0xe14 bg_proc.o
+                0x080013d0                SetBgTextControl
+                0x08001490                InitBg1
+                0x080010fc                Bgmode3
+                0x080013f8                SetBgRotationControl
+                0x08001694                RightBg1
+                0x08001960                InitBg3_Map
+                0x0800189c                LeftBg2
+                0x0800197c                RightBg3
+                0x08000eac                bg_init_gameover
+                0x080014fc                BgUpdate
+                0x080010a4                siro_anm
+                0x08000ee4                Bgmode1
+                0x080019fc                LeftBg3
+                0x080014d0                InitBg1_Map
+                0x08000ebc                bg_modified
+                0x080017fc                InitBg2_Map
+                0x08001310                Bg2_UpDown
+                0x08000eb8                bg_init_dead
+                0x08001434                SetDispControl
+                0x08000c68                bg_init
+                0x08000c98                bg_init_first
+                0x0800191c                InitBg3
+                0x08001728                LeftBg1
+                0x0800181c                RightBg2
+                0x080017b8                InitBg2
+ .text          0x08001a7c     0x1728 yos_game_sub.o
+                0x08002894                p1_getMap
+                0x08002fa8                p1_key_chk
+                0x08002c00                p1_yoshi_jump_set
+                0x08001c58                p1_charWorkInit0
+                0x080028f0                p1_line_cross_chk_yoko
+                0x08001fbc                p1_yos_hit_tate
+                0x080026fc                p1_jimen_cross_chk_yoko
+                0x08001bf0                p1_affineWorkInit0
+                0x08002a68                p1_yoshi_dead_set
+                0x08002c5c                p1_effectSet
+                0x08002d14                p1_balloon_dead
+                0x0800301c                p1_calcDispPosition
+                0x080027b4                p1_line_cross_chk_tate
+                0x080029cc                p1_get_rel_pos
+                0x08002d4c                p1_anim_work_proc
+                0x08002720                p1_jimen_cross_chk
+                0x08002e58                p1_turekomi_fly_pos_set
+                0x08001a7c                p1_workInit0
+                0x08002a1c                p1_get_lap_pos
+                0x08002f78                p1_clear_anm
+                0x08001d60                p1_yos_hit_yoko
+ .text          0x080031a4     0x2eec yos_game_mov.o
+                0x08005ce0                p1_hanabiraMove
+                0x0800327c                p1_jump_se_set
+                0x08005dfc                p1_eggMove
+                0x08005a8c                p1_charMove
+                0x08004afc                p1_killerS_move
+                0x080052a8                p1_bomb_move
+                0x08004c78                p1_balloon_move
+                0x080058a8                p1_hakoMove
+                0x080031a4                p1_yoshi_init1
+                0x08004ff8                p1_omori_move
+                0x0800489c                p1_heihoL_move
+                0x08005f90                p1_effectMove
+                0x08005448                p1_kokamek_move
+                0x080056ac                p1_toge_move
+                0x080032a4                p1_yoshiMove
+                0x08004598                p1_heiho_move
+ .text          0x08006090     0x16f0 yos_game_pr.o
+                0x080070ac                p1_bombKagePrint
+                0x08007124                p1_effectPrint
+                0x08006f28                p1_heiKagePrint
+                0x08006d68                p1_gagePrint
+                0x08007584                p1_kumoPrint
+                0x08006090                p1_yoshiPrint
+                0x08006614                p1_charPrint
+                0x0800629c                p1_yoshiKagePrint
+                0x08007688                p1_koumoriPrint
+                0x08007418                p1_kokamekPrint
+                0x08007034                p1_heiKagePrintL
+                0x0800639c                p1_eggPrint
+ .text          0x08007780      0x1e0 yos_main.o
+                0x08007900                IntrDummy
+                0x08007780                AgbMain
+ .text          0x08007960      0x1c8 oam_proc.o
+                0x08007acc                dmaReqSet
+                0x08007a60                add_OamList
+                0x08007960                make_OamBuf
+                0x08007a90                new_OamData
+                0x08007a30                clear_OamList
+ .text          0x08007b28      0x958 menu.o
+                0x08007b84                proc_0
+                0x08007b28                p0_set_umi_sora
+ .text          0x08008480     0x2098 sound/m4aLib.o
+                0x08009748                SoundVSyncOff_rev01
+                0x080095b8                SampFreqSet_rev01
+                0x08008480                umul3232H32
+                0x080093a0                MPlayExtender
+                0x080096f4                SoundClear_rev01
+                0x0800a4ac                ply_xsust
+                0x080094dc                Clear64byte_rev
+                0x0800a498                ply_xdeca
+                0x080094c4                MusicPlayerJumpTableCopy
+                0x0800a470                ply_xtype
+                0x0800a050                MPlayVolumeControl
+                0x08009848                MPlayStart_rev01
+                0x080088b8                SoundMainBTM
+                0x0800a500                ply_xswee
+                0x08009794                SoundVSyncOn_rev01
+                0x08009348                m4aMPlayFadeOut
+                0x080097d0                MPlayOpen_rev01
+                0x08008d88                TrackStop_rev01
+                0x0800931c                m4aMPlayAllContinue
+                0x0800a484                ply_xatta
+                0x08009a84                MidiKey2CgbFr
+                0x0800a4d4                ply_xiecv
+                0x080092b0                m4aSongNumContinue
+                0x0800a228                MPlayLFOSpeedSet
+                0x080090d8                DummyFunc
+                0x080090f8                MPlayFadeOut
+                0x08008fe4                ply_endtie_rev01
+                0x08009310                m4aMPlayContinue
+                0x0800a028                MPlayTempoControl
+                0x0800993c                FadeOutBody_rev01
+                0x08009b2c                CgbOscOff
+                0x0800a414                ply_xxx
+                0x08009074                MidiKey2fr
+                0x080091a4                m4aSoundMain
+                0x0800a428                ply_xwave
+                0x080099bc                TrkVolPitSet_rev01
+                0x080091b0                m4aSongNumStart
+                0x0800904c                ply_lfos_rev01
+                0x080090dc                MPlayContinue
+                0x08009060                ply_mod_rev01
+                0x0800a0b8                MPlayPitchControl
+                0x0800a194                MP_clear_modM
+                0x08008b1c                MPlayMain_rev01
+                0x08008dcc                ply_note_rev01
+                0x080094f0                SoundInit_rev01
+                0x080091dc                m4aSongNumStartOrChange
+                0x0800a1b4                MPlayModDepthSet
+                0x08009228                m4aSongNumStartOrContinue
+                0x08009be4                CgbSound
+                0x080098fc                MPlayStop_rev01
+                0x0800a514                DummyFunc_rev
+                0x0800a3f4                ply_xcmd
+                0x0800965c                SoundMode_rev01
+                0x0800a12c                MPlayPanpotControl
+                0x080094c8                ClearChain_rev
+                0x08008ae4                SoundVSync_rev01
+                0x08009118                m4aSoundInit
+                0x0800a4e0                ply_xiecl
+                0x0800a4ec                ply_xleng
+                0x08009358                m4aMPlayImmInit
+                0x0800a29c                ply_memacc
+                0x08008490                SoundMain
+                0x08008514                SoundMainRAM
+                0x080092e4                m4aMPlayAllStop
+                0x08009b7c                CgbModVol
+                0x080088b8                Clear64byte
+                0x0800927c                m4aSongNumStop
+                0x08008920                MPlyJmpTblCopy
+                0x0800a4c0                ply_xrele
+ .text          0x0800a518        0x4 C:/agb/lib/libagbsyscall.a(AgbSysCpuSet.o)
+                0x0800a518                CpuSet
+ .text          0x0800a51c       0x3c C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_call_via_rX.o)
+                0x0800a524                _call_via_r2
+                0x0800a534                _call_via_r6
+                0x0800a530                _call_via_r5
+                0x0800a528                _call_via_r3
+                0x0800a548                _call_via_fp
+                0x0800a53c                _call_via_r8
+                0x0800a538                _call_via_r7
+                0x0800a51c                _call_via_r0
+                0x0800a544                _call_via_sl
+                0x0800a550                _call_via_sp
+                0x0800a540                _call_via_r9
+                0x0800a52c                _call_via_r4
+                0x0800a520                _call_via_r1
+                0x0800a54c                _call_via_ip
+                0x0800a554                _call_via_lr
+ .text          0x0800a558       0x94 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_divsi3.o)
+                0x0800a558                __divsi3
+ .text          0x0800a5ec        0x4 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_dvmd_tls.o)
+                0x0800a5ec                __div0
+ .text          0x0800a5f0       0x34 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+                0x0800a5f0                __fixunssfsi
+ .text          0x0800a624       0xd0 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_modsi3.o)
+                0x0800a624                __modsi3
+ .text          0x0800a6f4       0xc0 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_umodsi3.o)
+                0x0800a6f4                __umodsi3
+ .text          0x0800a7b4      0x94c C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+                0x0800ac28                __divsf3
+                0x0800b030                __fixsfsi
+                0x0800b0bc                __make_fp
+                0x0800aa90                __subsf3
+                0x0800af88                __lesf2
+                0x0800b0d4                __extendsfdf2
+                0x0800ae68                __nesf2
+                0x0800a86c                __unpack_f
+                0x0800aeb0                __gtsf2
+                0x0800a7b4                __pack_f
+                0x0800afd0                __floatsisf
+                0x0800ae20                __eqsf2
+                0x0800b098                __negsf2
+                0x0800adf8                __cmpsf2
+                0x0800af40                __ltsf2
+                0x0800aac4                __mulsf3
+                0x0800aef8                __gesf2
+                0x0800ad14                __fpcmp_parts_f
+                0x0800aa64                __addsf3
+ .text          0x0800b100       0x70 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+                0x0800b100                __muldi3
+ .text          0x0800b170      0xd9c C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+                0x0800bb94                __cmpdf2
+                0x0800bbc0                __eqdf2
+                0x0800bc58                __gtdf2
+                0x0800bea0                __make_dp
+                0x0800bd88                __floatsidf
+                0x0800bcf0                __ltdf2
+                0x0800b2b8                __unpack_d
+                0x0800b5fc                __adddf3
+                0x0800be04                __fixdfsi
+                0x0800bd3c                __ledf2
+                0x0800ba94                __fpcmp_parts_d
+                0x0800be78                __negdf2
+                0x0800b90c                __divdf3
+                0x0800b664                __muldf3
+                0x0800bec8                __truncdfsf2
+                0x0800bc0c                __nedf2
+                0x0800bca4                __gedf2
+                0x0800b62c                __subdf3
+                0x0800b170                __pack_d
+ .text          0x0800bf0c       0x34 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+                0x0800bf0c                __lshrdi3
+ .text          0x0800bf40       0x18 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+                0x0800bf40                __negdi2
+ *(.text.*)
+ *(.stub)
+ *(.gnu.warning)
+ *(.gnu.linkonce.t*)
+ *(.glue_7t)
+ *(.glue_7)
+                0x0800bf58                _etext=.
+                0x0800bf58                PROVIDE (etext, .)
+
+.fini
+ *(.fini)
+
+.rodata         0x0800bf58    0x956c4
+ *(.rodata)
+ .rodata        0x0800bf58       0x10 yos_game.o
+ .rodata        0x0800bf68      0xeb8 yos_game_dat.o
+                0x0800c6d0                p1_objChrTbl
+                0x0800cb68                p1_tatenobi_tbl
+                0x0800cd90                p1_kokamekPos
+                0x0800bf68                p1_charMapData
+                0x0800c308                p1_OamData_Sample
+                0x0800c238                p1_mapALine
+                0x0800cb90                p1_obj_Palette
+                0x0800c318                p1_charSpecData
+                0x0800cdb0                p1_koumoriDat
+                0x0800c808                p1_objChrTbl2
+                0x0800cb28                p1_hanabira_pos
+                0x0800cde0                p1_balloon_randv_tbl
+                0x0800c310                p1_yoshi_start_pos
+                0x0800c828                p1_anmInfo_def
+ .rodata        0x0800ce20      0x514 yos_anm.o
+ .rodata        0x0800d334       0x18 bg_proc.o
+ .rodata        0x0800d34c       0x38 yos_main.o
+                0x0800d34c                IntrTable_0
+ .rodata        0x0800d384      0x400 yos_main_dat.o
+                0x0800d584                fix_cos
+                0x0800d384                fix_sin
+ .rodata        0x0800d784      0x23c menu_dat.o
+                0x0800d784                p0_yoshi_island_Palette
+                0x0800d984                p0_size_tbl
+ .rodata        0x0800d9c0      0x2d8 sound/m4aLib.o
+                0x0800db04                FreqTable
+                0x0800dbd0                CgbFrTable
+                0x0800d9c0                MPlyJmpTbl
+                0x0800dc24                Cgb3vol
+                0x0800da50                ScaleTable
+                0x0800dc68                xcmd_tbl
+                0x0800dc34                clock_tbl_rev01
+                0x0800db4c                CgbScTable
+                0x0800dbe8                NoiseTable
+                0x0800db34                pcmVBtbl_rev
+ .rodata        0x0800dc98      0x4f4 sound/SoundDat.o
+                0x0800dc98                voicegroup000
+                0x0800e00c                mplay_table
+                0x0800e030                song_table
+ .rodata        0x0800e18c     0x474c sound/i_mari.o
+                0x0800e18c                i_mari
+ .rodata        0x080128d8      0xf34 sound/i_b_sx.o
+                0x080128d8                i_b_sx
+ .rodata        0x0801380c     0x5a88 sound/i_vibe.o
+                0x0801380c                i_vibe
+ .rodata        0x08019294     0x1550 sound/i_bscl.o
+                0x08019294                i_bscl
+ .rodata        0x0801a7e4     0xbd84 sound/i_strg.o
+                0x0801a7e4                i_strg
+ .rodata        0x08026568     0x86dc sound/i_bell.o
+                0x08026568                i_bell
+ .rodata        0x0802ec44     0x29c8 sound/i_timp.o
+                0x0802ec44                i_timp
+ .rodata        0x0803160c     0xa254 sound/ov_sir2.o
+                0x0803160c                ov_sir2
+ .rodata        0x0803b860     0x55c8 sound/y_upup.o
+                0x0803b860                y_upup
+ .rodata        0x08040e28      0x878 sound/y_jmph1.o
+                0x08040e28                y_jmph1
+ .rodata        0x080416a0      0x9a4 sound/y_jmpy1.o
+                0x080416a0                y_jmpy1
+ .rodata        0x08042044     0x5bec sound/y_jmpfm.o
+                0x08042044                y_jmpfm
+ .rodata        0x08047c30     0x2080 sound/y_dwnau.o
+                0x08047c30                y_dwnau
+ .rodata        0x08049cb0     0x4a64 sound/y_ywiha.o
+                0x08049cb0                y_ywiha
+ .rodata        0x0804e714     0x3bc8 sound/ov_arra.o
+                0x0804e714                ov_arra
+ .rodata        0x080522dc     0x1578 sound/y_stpn1.o
+                0x080522dc                y_stpn1
+ .rodata        0x08053854      0xc80 sound/y_stph1.o
+                0x08053854                y_stph1
+ .rodata        0x080544d4     0x1818 sound/y_tont1.o
+                0x080544d4                y_tont1
+ .rodata        0x08055cec     0x17cc sound/y_tont2.o
+                0x08055cec                y_tont2
+ .rodata        0x080574b8       0xac sound/y_jmpst.o
+                0x080574b8                y_jmpst
+ .rodata        0x08057564      0xf34 sound/y_pakon.o
+                0x08057564                y_pakon
+ .rodata        0x08058498      0x7e8 sound/y_runtn.o
+                0x08058498                y_runtn
+ .rodata        0x08058c80      0xd18 sound/y_stpqu.o
+                0x08058c80                y_stpqu
+ .rodata        0x08059998     0x49ac sound/y_dmgn1.o
+                0x08059998                y_dmgn1
+ .rodata        0x0805e344     0x5a4c sound/y_dmgn2.o
+                0x0805e344                y_dmgn2
+ .rodata        0x08063d90      0xa1c sound/ht_atar.o
+                0x08063d90                ht_atar
+ .rodata        0x080647ac      0x760 sound/ov_konn.o
+                0x080647ac                ov_konn
+ .rodata        0x08064f0c      0x774 sound/e_onpp1.o
+                0x08064f0c                e_onpp1
+ .rodata        0x08065680     0x22f0 sound/e_derup.o
+                0x08065680                e_derup
+ .rodata        0x08067970      0x22c sound/e_torup.o
+                0x08067970                e_torup
+ .rodata        0x08067b9c       0x88 sound/i_drm1.o
+                0x08067b9c                i_drm1
+ .rodata        0x08067c24      0x5d4 sound/i_drm2.o
+                0x08067c24                i_drm2
+ .rodata        0x080681f8     0x517c sound/ov_shaa.o
+                0x080681f8                ov_shaa
+ .rodata        0x0806d374     0x67e8 sound/ki_sid2.o
+                0x0806d374                ki_sid2
+ .rodata        0x08073b5c     0x1570 sound/t5_undr.o
+                0x08073b5c                t5_undr
+ .rodata        0x080750cc     0x3dec sound/t5_dsin.o
+                0x080750cc                t5_dsin
+ .rodata        0x08078eb8     0x14b0 sound/ov_basa.o
+                0x08078eb8                ov_basa
+ .rodata        0x0807a368      0x148 sound/ov_hkob.o
+                0x0807a368                ov_hkob
+ .rodata        0x0807a4b0     0x14ac sound/ht_ware.o
+                0x0807a4b0                ht_ware
+ .rodata        0x0807b95c     0x28d0 sound/tg_raka.o
+                0x0807b95c                tg_raka
+ .rodata        0x0807e22c     0x2fec sound/km_ukuu.o
+                0x0807e22c                km_ukuu
+ .rodata        0x08081218      0xdb8 sound/bm_atri.o
+                0x08081218                bm_atri
+ .rodata        0x08081fd0     0x1f3c sound/c_gaonn.o
+                0x08081fd0                c_gaonn
+ .rodata        0x08083f0c     0x3104 sound/i_elsn.o
+                0x08083f0c                i_elsn
+ .rodata        0x08087010     0x27e4 sound/y_hipkr.o
+                0x08087010                y_hipkr
+ .rodata        0x080897f4     0x1274 sound/y_hipha.o
+                0x080897f4                y_hipha
+ .rodata        0x0808aa68     0x79d0 sound/i_vb_t.o
+                0x0808aa68                i_vb_t
+ .rodata        0x08092438      0x614 sound/mm_1game.o
+                0x08092a34                mm_1game
+ .rodata        0x08092a4c      0x150 sound/mm_gover.o
+                0x08092b7c                mm_gover
+ .rodata        0x08092b9c       0x1c sound/my_hipkr.o
+                0x08092bac                my_hipkr
+ .rodata        0x08092bb8       0x1c sound/my_hipha.o
+                0x08092bc8                my_hipha
+ .rodata        0x08092bd4       0x1c sound/my_stpn1.o
+                0x08092be4                my_stpn1
+ .rodata        0x08092bf0       0x1c sound/my_jmph1.o
+                0x08092c00                my_jmph1
+ .rodata        0x08092c0c       0x1c sound/my_jmpy1.o
+                0x08092c1c                my_jmpy1
+ .rodata        0x08092c28       0x1c sound/my_jmpfm.o
+                0x08092c38                my_jmpfm
+ .rodata        0x08092c44       0x1c sound/my_dwnau.o
+                0x08092c54                my_dwnau
+ .rodata        0x08092c60       0x1c sound/mov_arra.o
+                0x08092c70                mov_arra
+ .rodata        0x08092c7c       0x30 sound/mtp_stat.o
+                0x08092ca0                mtp_stat
+ .rodata        0x08092cac       0x1c sound/my_stph1.o
+                0x08092cbc                my_stph1
+ .rodata        0x08092cc8       0x1c sound/my_tont1.o
+                0x08092cd8                my_tont1
+ .rodata        0x08092ce4       0x1c sound/my_tont2.o
+                0x08092cf4                my_tont2
+ .rodata        0x08092d00       0x1c sound/my_upup.o
+                0x08092d10                my_upup
+ .rodata        0x08092d1c       0x1c sound/my_jmpst.o
+                0x08092d2c                my_jmpst
+ .rodata        0x08092d38       0x1c sound/my_pakon.o
+                0x08092d48                my_pakon
+ .rodata        0x08092d54       0x1c sound/my_dmgn1.o
+                0x08092d64                my_dmgn1
+ .rodata        0x08092d70       0x20 sound/my_dmgn2.o
+                0x08092d84                my_dmgn2
+ .rodata        0x08092d90       0x1c sound/me_onpp2.o
+                0x08092da0                me_onpp2
+ .rodata        0x08092dac       0x1c sound/me_onpp1.o
+                0x08092dbc                me_onpp1
+ .rodata        0x08092dc8       0x1c sound/me_derup.o
+                0x08092dd8                me_derup
+ .rodata        0x08092de4       0x1c sound/me_torup.o
+                0x08092df4                me_torup
+ .rodata        0x08092e00      0x1ac sound/mm_title.o
+                0x08092f94                mm_title
+ .rodata        0x08092fac       0x24 sound/mh_kaitn.o
+                0x08092fc4                mh_kaitn
+ .rodata        0x08092fd0       0x1c sound/mki_sid1.o
+                0x08092fe0                mki_sid1
+ .rodata        0x08092fec       0x1c sound/mki_sid2.o
+                0x08092ffc                mki_sid2
+ .rodata        0x08093008       0x1c sound/m5t_dsin.o
+                0x08093018                m5t_dsin
+ .rodata        0x08093024       0x1c sound/me_onpp3.o
+                0x08093034                me_onpp3
+ .rodata        0x08093040       0x1c sound/mtg_raka.o
+                0x08093050                mtg_raka
+ .rodata        0x0809305c       0x20 sound/mkm_ukuu.o
+                0x08093070                mkm_ukuu
+ .rodata        0x0809307c       0x1c sound/mc_gaonn.o
+                0x0809308c                mc_gaonn
+ .rodata        0x08093098       0x20 sound/mht_apir.o
+                0x080930ac                mht_apir
+ .rodata        0x080930b8       0x1c sound/mht_ware.o
+                0x080930c8                mht_ware
+ .rodata        0x080930d4       0x1c sound/mht_atar.o
+                0x080930e4                mht_atar
+ .rodata        0x080930f0     0x6440 bmp/yosbgbmp//libyosbgbmp.a(bg1.o)
+                0x080930f0                bg1_Palette
+                0x080932f0                bg1_Character
+                0x08096fb0                bg1_Map
+ .rodata        0x08099530     0x4fb4 bmp/yosbgbmp//libyosbgbmp.a(bg2.o)
+                0x08099712                bg2_Character
+                0x08099530                bg2_Palette
+                0x0809d6d2                bg2_Map
+ .rodata        0x0809e4e4     0x3138 bmp/yosbgbmp//libyosbgbmp.a(bg3.o)
+                0x0809e504                bg3_Character
+                0x080a0104                bg3_Map
+                0x0809e4e4                bg3_Palette
+ *(.rodata.*)
+ *(.gnu.linkonce.r*)
+
+.rodata1
+ *(.rodata1)
+                0x080a171c                .=(ALIGN(0x100)+(.&0xff))
+
+.data           0x080a171c   0x189b88
+ *(.data)
+ .data          0x080a171c       0x28 yos_game_dat.o
+                0x080a172c                p1_balloon_pos
+                0x080a171c                p1_hanabira_rot_tbl
+                0x080a1734                p1_heiho_pix_tbl
+ .data          0x080a1744      0x4d0 yos_anm.o
+                0x080a1b4c                p1_kokamek_pixel_tbl
+                0x080a1744                p1_yoshi_pixel_tbl
+                0x080a19e8                p1_heiho_pixel_tbl
+                0x080a19b8                p1_yoshi_anm_patern
+                0x080a1b44                p1_killerS_anm_patern
+                0x080a1bf8                p1_bomb_pixel_tbl
+                0x080a1b68                p1_hosi_pixel_tbl
+                0x080a1a38                p1_heiho_g_pixel_tbl
+                0x080a1a88                p1_heihoL_pixel_tbl
+                0x080a1c0c                p1_bomb_anm_patern
+                0x080a1ac4                p1_mbox_anm_patern
+                0x080a1bb8                p1_balloon_pixel_tbl
+                0x080a1b90                p1_kurukemu_pixel_tbl
+                0x080a1a10                p1_heiho_b_pixel_tbl
+                0x080a1b5c                p1_kokamek_anm_patern
+                0x080a1a60                p1_heiho_y_pixel_tbl
+                0x080a1abc                p1_mbox_pixel_tbl
+                0x080a1b88                p1_hosi_anm_patern
+                0x080a1ab0                p1_heiho_anm_patern
+                0x080a1acc                p1_sun_pixel_tbl
+                0x080a1b20                p1_killerS_pixel_tbl
+                0x080a1bf0                p1_balloon_anm_patern
+                0x080a1bb0                p1_kurukemu_anm_patern
+                0x080a1b08                p1_sun_anm_patern
+ .data          0x080a1c14      0x400 bg_proc.o
+                0x080a1e14                tcos
+                0x080a1c14                tsin
+ .data          0x080a2014        0x8 yos_game_mov.o
+                0x080a2014                p1_egg_se_tbl
+ .data          0x080a201c        0x8 yos_main.o
+                0x080a201c                proc_func_tbl
+ .data          0x080a2024      0x1e0 menu_dat.o
+                0x080a2024                p0_isle_tbl
+                0x080a2114                p0_map_tbl
+ .data          0x080a2204      0x400 bmp/yosbmp//libyosbmp.a(killer_s1.o)
+                0x080a2604                _binary_killer_s1_imb_end
+                0x080a2204                _binary_killer_s1_imb_start
+ .data          0x080a2604      0x100 bmp/yosbmp//libyosbmp.a(egg.o)
+                0x080a2704                _binary_egg_imb_end
+                0x080a2604                _binary_egg_imb_start
+ .data          0x080a2704      0x400 bmp/yosbmp//libyosbmp.a(kokamek_a.o)
+                0x080a2b04                _binary_kokamek_a_imb_end
+                0x080a2704                _binary_kokamek_a_imb_start
+ .data          0x080a2b04      0x400 bmp/yosbmp//libyosbmp.a(kokamek_c.o)
+                0x080a2f04                _binary_kokamek_c_imb_end
+                0x080a2b04                _binary_kokamek_c_imb_start
+ .data          0x080a2f04      0x100 bmp/yosbmp//libyosbmp.a(HANABIRA1.o)
+                0x080a2f04                _binary_HANABIRA1_imb_start
+                0x080a3004                _binary_HANABIRA1_imb_end
+ .data          0x080a3004      0x100 bmp/yosbmp//libyosbmp.a(HANABIRA2.o)
+                0x080a3004                _binary_HANABIRA2_imb_start
+                0x080a3104                _binary_HANABIRA2_imb_end
+ .data          0x080a3104      0x100 bmp/yosbmp//libyosbmp.a(HANABIRA3.o)
+                0x080a3104                _binary_HANABIRA3_imb_start
+                0x080a3204                _binary_HANABIRA3_imb_end
+ .data          0x080a3204      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAn_1.o)
+                0x080a3204                _binary_HANABIRAn_1_imb_start
+                0x080a3304                _binary_HANABIRAn_1_imb_end
+ .data          0x080a3304      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAn_2.o)
+                0x080a3304                _binary_HANABIRAn_2_imb_start
+                0x080a3404                _binary_HANABIRAn_2_imb_end
+ .data          0x080a3404      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAn_3.o)
+                0x080a3504                _binary_HANABIRAn_3_imb_end
+                0x080a3404                _binary_HANABIRAn_3_imb_start
+ .data          0x080a3504      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAy_1.o)
+                0x080a3504                _binary_HANABIRAy_1_imb_start
+                0x080a3604                _binary_HANABIRAy_1_imb_end
+ .data          0x080a3604      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAy_2.o)
+                0x080a3604                _binary_HANABIRAy_2_imb_start
+                0x080a3704                _binary_HANABIRAy_2_imb_end
+ .data          0x080a3704      0x100 bmp/yosbmp//libyosbmp.a(HANABIRAy_3.o)
+                0x080a3804                _binary_HANABIRAy_3_imb_end
+                0x080a3704                _binary_HANABIRAy_3_imb_start
+ .data          0x080a3804       0x40 bmp/yosbmp//libyosbmp.a(hosi1.o)
+                0x080a3804                _binary_hosi1_imb_start
+                0x080a3844                _binary_hosi1_imb_end
+ .data          0x080a3844       0x40 bmp/yosbmp//libyosbmp.a(hosi2.o)
+                0x080a3844                _binary_hosi2_imb_start
+                0x080a3884                _binary_hosi2_imb_end
+ .data          0x080a3884       0x40 bmp/yosbmp//libyosbmp.a(hosi3.o)
+                0x080a3884                _binary_hosi3_imb_start
+                0x080a38c4                _binary_hosi3_imb_end
+ .data          0x080a38c4       0x40 bmp/yosbmp//libyosbmp.a(hosi4.o)
+                0x080a3904                _binary_hosi4_imb_end
+                0x080a38c4                _binary_hosi4_imb_start
+ .data          0x080a3904       0x40 bmp/yosbmp//libyosbmp.a(hosi5.o)
+                0x080a3944                _binary_hosi5_imb_end
+                0x080a3904                _binary_hosi5_imb_start
+ .data          0x080a3944       0x40 bmp/yosbmp//libyosbmp.a(hosi6.o)
+                0x080a3984                _binary_hosi6_imb_end
+                0x080a3944                _binary_hosi6_imb_start
+ .data          0x080a3984       0x40 bmp/yosbmp//libyosbmp.a(hosi7.o)
+                0x080a3984                _binary_hosi7_imb_start
+                0x080a39c4                _binary_hosi7_imb_end
+ .data          0x080a39c4       0x40 bmp/yosbmp//libyosbmp.a(hosi8.o)
+                0x080a3a04                _binary_hosi8_imb_end
+                0x080a39c4                _binary_hosi8_imb_start
+ .data          0x080a3a04       0x80 bmp/yosbmp//libyosbmp.a(kage0.o)
+                0x080a3a84                _binary_kage0_imb_end
+                0x080a3a04                _binary_kage0_imb_start
+ .data          0x080a3a84      0x100 bmp/yosbmp//libyosbmp.a(batabata1.o)
+                0x080a3a84                _binary_batabata1_imb_start
+                0x080a3b84                _binary_batabata1_imb_end
+ .data          0x080a3b84      0x100 bmp/yosbmp//libyosbmp.a(batabata2.o)
+                0x080a3b84                _binary_batabata2_imb_start
+                0x080a3c84                _binary_batabata2_imb_end
+ .data          0x080a3c84      0x100 bmp/yosbmp//libyosbmp.a(batabata3.o)
+                0x080a3d84                _binary_batabata3_imb_end
+                0x080a3c84                _binary_batabata3_imb_start
+ .data          0x080a3d84      0x100 bmp/yosbmp//libyosbmp.a(batabata4.o)
+                0x080a3d84                _binary_batabata4_imb_start
+                0x080a3e84                _binary_batabata4_imb_end
+ .data          0x080a3e84      0x100 bmp/yosbmp//libyosbmp.a(batabata5.o)
+                0x080a3f84                _binary_batabata5_imb_end
+                0x080a3e84                _binary_batabata5_imb_start
+ .data          0x080a3f84      0x100 bmp/yosbmp//libyosbmp.a(batabata6.o)
+                0x080a3f84                _binary_batabata6_imb_start
+                0x080a4084                _binary_batabata6_imb_end
+ .data          0x080a4084      0x100 bmp/yosbmp//libyosbmp.a(batabata7.o)
+                0x080a4084                _binary_batabata7_imb_start
+                0x080a4184                _binary_batabata7_imb_end
+ .data          0x080a4184      0x100 bmp/yosbmp//libyosbmp.a(batabata8.o)
+                0x080a4284                _binary_batabata8_imb_end
+                0x080a4184                _binary_batabata8_imb_start
+ .data          0x080a4284      0x100 bmp/yosbmp//libyosbmp.a(kagel.o)
+                0x080a4384                _binary_kagel_imb_end
+                0x080a4284                _binary_kagel_imb_start
+ .data          0x080a4384      0x400 bmp/yosbmp//libyosbmp.a(balloon.o)
+                0x080a4384                _binary_balloon_imb_start
+                0x080a4784                _binary_balloon_imb_end
+ .data          0x080a4784      0x400 bmp/yosbmp//libyosbmp.a(omori5t.o)
+                0x080a4784                _binary_omori5t_imb_start
+                0x080a4b84                _binary_omori5t_imb_end
+ .data          0x080a4b84      0x400 bmp/yosbmp//libyosbmp.a(bomb_1.o)
+                0x080a4f84                _binary_bomb_1_imb_end
+                0x080a4b84                _binary_bomb_1_imb_start
+ .data          0x080a4f84      0x400 bmp/yosbmp//libyosbmp.a(dokan.o)
+                0x080a4f84                _binary_dokan_imb_start
+                0x080a5384                _binary_dokan_imb_end
+ .data          0x080a5384      0x400 bmp/yosbmp//libyosbmp.a(hana.o)
+                0x080a5384                _binary_hana_imb_start
+                0x080a5784                _binary_hana_imb_end
+ .data          0x080a5784      0x400 bmp/yosbmp//libyosbmp.a(kuki.o)
+                0x080a5784                _binary_kuki_imb_start
+                0x080a5b84                _binary_kuki_imb_end
+ .data          0x080a5b84      0x400 bmp/yosbmp//libyosbmp.a(toge.o)
+                0x080a5f84                _binary_toge_imb_end
+                0x080a5b84                _binary_toge_imb_start
+ .data          0x080a5f84     0x1000 bmp/yosbmp//libyosbmp.a(kumo_nuki_l.o)
+                0x080a6f84                _binary_kumo_nuki_l_imb_end
+                0x080a5f84                _binary_kumo_nuki_l_imb_start
+ .data          0x080a6f84     0x1000 bmp/yosbmp//libyosbmp.a(kumo_nuki_r.o)
+                0x080a6f84                _binary_kumo_nuki_r_imb_start
+                0x080a7f84                _binary_kumo_nuki_r_imb_end
+ .data          0x080a7f84      0x100 bmp/yosbmp//libyosbmp.a(koumori.o)
+                0x080a8084                _binary_koumori_imb_end
+                0x080a7f84                _binary_koumori_imb_start
+ .data          0x080a8084      0x800 bmp/yosbmp//libyosbmp.a(PS_hey1.o)
+                0x080a8884                _binary_PS_hey1_imb_end
+                0x080a8084                _binary_PS_hey1_imb_start
+ .data          0x080a8884      0x800 bmp/yosbmp//libyosbmp.a(PS_hey2.o)
+                0x080a9084                _binary_PS_hey2_imb_end
+                0x080a8884                _binary_PS_hey2_imb_start
+ .data          0x080a9084      0x800 bmp/yosbmp//libyosbmp.a(PS_hey3.o)
+                0x080a9084                _binary_PS_hey3_imb_start
+                0x080a9884                _binary_PS_hey3_imb_end
+ .data          0x080a9884      0x800 bmp/yosbmp//libyosbmp.a(PS_hey4.o)
+                0x080a9884                _binary_PS_hey4_imb_start
+                0x080aa084                _binary_PS_hey4_imb_end
+ .data          0x080aa084      0x800 bmp/yosbmp//libyosbmp.a(PS_hey5.o)
+                0x080aa084                _binary_PS_hey5_imb_start
+                0x080aa884                _binary_PS_hey5_imb_end
+ .data          0x080aa884      0x800 bmp/yosbmp//libyosbmp.a(PS_hey6.o)
+                0x080aa884                _binary_PS_hey6_imb_start
+                0x080ab084                _binary_PS_hey6_imb_end
+ .data          0x080ab084      0x800 bmp/yosbmp//libyosbmp.a(PS_hey7.o)
+                0x080ab084                _binary_PS_hey7_imb_start
+                0x080ab884                _binary_PS_hey7_imb_end
+ .data          0x080ab884      0x800 bmp/yosbmp//libyosbmp.a(PS_hey8.o)
+                0x080ab884                _binary_PS_hey8_imb_start
+                0x080ac084                _binary_PS_hey8_imb_end
+ .data          0x080ac084      0x800 bmp/yosbmp//libyosbmp.a(PS_jump1.o)
+                0x080ac084                _binary_PS_jump1_imb_start
+                0x080ac884                _binary_PS_jump1_imb_end
+ .data          0x080ac884      0x800 bmp/yosbmp//libyosbmp.a(PS_jump2.o)
+                0x080ad084                _binary_PS_jump2_imb_end
+                0x080ac884                _binary_PS_jump2_imb_start
+ .data          0x080ad084      0x800 bmp/yosbmp//libyosbmp.a(PS_jump3.o)
+                0x080ad884                _binary_PS_jump3_imb_end
+                0x080ad084                _binary_PS_jump3_imb_start
+ .data          0x080ad884      0x800 bmp/yosbmp//libyosbmp.a(PS_jump4.o)
+                0x080ad884                _binary_PS_jump4_imb_start
+                0x080ae084                _binary_PS_jump4_imb_end
+ .data          0x080ae084      0x800 bmp/yosbmp//libyosbmp.a(PS_jump5.o)
+                0x080ae884                _binary_PS_jump5_imb_end
+                0x080ae084                _binary_PS_jump5_imb_start
+ .data          0x080ae884      0x800 bmp/yosbmp//libyosbmp.a(PS_jump6.o)
+                0x080ae884                _binary_PS_jump6_imb_start
+                0x080af084                _binary_PS_jump6_imb_end
+ .data          0x080af084      0x800 bmp/yosbmp//libyosbmp.a(PS_jump7.o)
+                0x080af884                _binary_PS_jump7_imb_end
+                0x080af084                _binary_PS_jump7_imb_start
+ .data          0x080af884      0x800 bmp/yosbmp//libyosbmp.a(PS_jump8.o)
+                0x080af884                _binary_PS_jump8_imb_start
+                0x080b0084                _binary_PS_jump8_imb_end
+ .data          0x080b0084      0x800 bmp/yosbmp//libyosbmp.a(PS_kihon_M.o)
+                0x080b0884                _binary_PS_kihon_M_imb_end
+                0x080b0084                _binary_PS_kihon_M_imb_start
+ .data          0x080b0884      0x800 bmp/yosbmp//libyosbmp.a(PS_kihon_Y.o)
+                0x080b1084                _binary_PS_kihon_Y_imb_end
+                0x080b0884                _binary_PS_kihon_Y_imb_start
+ .data          0x080b1084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B.o)
+                0x080b1884                _binary_PS_kyoro_B_imb_end
+                0x080b1084                _binary_PS_kyoro_B_imb_start
+ .data          0x080b1884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B10.o)
+                0x080b2084                _binary_PS_kyoro_B10_imb_end
+                0x080b1884                _binary_PS_kyoro_B10_imb_start
+ .data          0x080b2084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B11.o)
+                0x080b2884                _binary_PS_kyoro_B11_imb_end
+                0x080b2084                _binary_PS_kyoro_B11_imb_start
+ .data          0x080b2884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B2.o)
+                0x080b3084                _binary_PS_kyoro_B2_imb_end
+                0x080b2884                _binary_PS_kyoro_B2_imb_start
+ .data          0x080b3084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B3.o)
+                0x080b3884                _binary_PS_kyoro_B3_imb_end
+                0x080b3084                _binary_PS_kyoro_B3_imb_start
+ .data          0x080b3884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B4.o)
+                0x080b3884                _binary_PS_kyoro_B4_imb_start
+                0x080b4084                _binary_PS_kyoro_B4_imb_end
+ .data          0x080b4084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B5.o)
+                0x080b4084                _binary_PS_kyoro_B5_imb_start
+                0x080b4884                _binary_PS_kyoro_B5_imb_end
+ .data          0x080b4884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B6.o)
+                0x080b4884                _binary_PS_kyoro_B6_imb_start
+                0x080b5084                _binary_PS_kyoro_B6_imb_end
+ .data          0x080b5084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B7.o)
+                0x080b5884                _binary_PS_kyoro_B7_imb_end
+                0x080b5084                _binary_PS_kyoro_B7_imb_start
+ .data          0x080b5884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B8.o)
+                0x080b5884                _binary_PS_kyoro_B8_imb_start
+                0x080b6084                _binary_PS_kyoro_B8_imb_end
+ .data          0x080b6084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_B9.o)
+                0x080b6084                _binary_PS_kyoro_B9_imb_start
+                0x080b6884                _binary_PS_kyoro_B9_imb_end
+ .data          0x080b6884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M10.o)
+                0x080b7084                _binary_PS_kyoro_M10_imb_end
+                0x080b6884                _binary_PS_kyoro_M10_imb_start
+ .data          0x080b7084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M11.o)
+                0x080b7084                _binary_PS_kyoro_M11_imb_start
+                0x080b7884                _binary_PS_kyoro_M11_imb_end
+ .data          0x080b7884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M2.o)
+                0x080b7884                _binary_PS_kyoro_M2_imb_start
+                0x080b8084                _binary_PS_kyoro_M2_imb_end
+ .data          0x080b8084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M3.o)
+                0x080b8884                _binary_PS_kyoro_M3_imb_end
+                0x080b8084                _binary_PS_kyoro_M3_imb_start
+ .data          0x080b8884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M4.o)
+                0x080b8884                _binary_PS_kyoro_M4_imb_start
+                0x080b9084                _binary_PS_kyoro_M4_imb_end
+ .data          0x080b9084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M5.o)
+                0x080b9884                _binary_PS_kyoro_M5_imb_end
+                0x080b9084                _binary_PS_kyoro_M5_imb_start
+ .data          0x080b9884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M6.o)
+                0x080ba084                _binary_PS_kyoro_M6_imb_end
+                0x080b9884                _binary_PS_kyoro_M6_imb_start
+ .data          0x080ba084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M7.o)
+                0x080ba884                _binary_PS_kyoro_M7_imb_end
+                0x080ba084                _binary_PS_kyoro_M7_imb_start
+ .data          0x080ba884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M8.o)
+                0x080bb084                _binary_PS_kyoro_M8_imb_end
+                0x080ba884                _binary_PS_kyoro_M8_imb_start
+ .data          0x080bb084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_M9.o)
+                0x080bb084                _binary_PS_kyoro_M9_imb_start
+                0x080bb884                _binary_PS_kyoro_M9_imb_end
+ .data          0x080bb884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y10.o)
+                0x080bc084                _binary_PS_kyoro_Y10_imb_end
+                0x080bb884                _binary_PS_kyoro_Y10_imb_start
+ .data          0x080bc084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y11.o)
+                0x080bc084                _binary_PS_kyoro_Y11_imb_start
+                0x080bc884                _binary_PS_kyoro_Y11_imb_end
+ .data          0x080bc884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y2.o)
+                0x080bc884                _binary_PS_kyoro_Y2_imb_start
+                0x080bd084                _binary_PS_kyoro_Y2_imb_end
+ .data          0x080bd084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y3.o)
+                0x080bd884                _binary_PS_kyoro_Y3_imb_end
+                0x080bd084                _binary_PS_kyoro_Y3_imb_start
+ .data          0x080bd884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y4.o)
+                0x080bd884                _binary_PS_kyoro_Y4_imb_start
+                0x080be084                _binary_PS_kyoro_Y4_imb_end
+ .data          0x080be084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y5.o)
+                0x080be084                _binary_PS_kyoro_Y5_imb_start
+                0x080be884                _binary_PS_kyoro_Y5_imb_end
+ .data          0x080be884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y6.o)
+                0x080bf084                _binary_PS_kyoro_Y6_imb_end
+                0x080be884                _binary_PS_kyoro_Y6_imb_start
+ .data          0x080bf084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y7.o)
+                0x080bf884                _binary_PS_kyoro_Y7_imb_end
+                0x080bf084                _binary_PS_kyoro_Y7_imb_start
+ .data          0x080bf884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y8.o)
+                0x080bf884                _binary_PS_kyoro_Y8_imb_start
+                0x080c0084                _binary_PS_kyoro_Y8_imb_end
+ .data          0x080c0084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_Y9.o)
+                0x080c0084                _binary_PS_kyoro_Y9_imb_start
+                0x080c0884                _binary_PS_kyoro_Y9_imb_end
+ .data          0x080c0884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR10.o)
+                0x080c1084                _binary_PS_kyoro_YR10_imb_end
+                0x080c0884                _binary_PS_kyoro_YR10_imb_start
+ .data          0x080c1084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR11.o)
+                0x080c1084                _binary_PS_kyoro_YR11_imb_start
+                0x080c1884                _binary_PS_kyoro_YR11_imb_end
+ .data          0x080c1884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR2.o)
+                0x080c2084                _binary_PS_kyoro_YR2_imb_end
+                0x080c1884                _binary_PS_kyoro_YR2_imb_start
+ .data          0x080c2084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR3.o)
+                0x080c2884                _binary_PS_kyoro_YR3_imb_end
+                0x080c2084                _binary_PS_kyoro_YR3_imb_start
+ .data          0x080c2884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR4.o)
+                0x080c2884                _binary_PS_kyoro_YR4_imb_start
+                0x080c3084                _binary_PS_kyoro_YR4_imb_end
+ .data          0x080c3084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR5.o)
+                0x080c3084                _binary_PS_kyoro_YR5_imb_start
+                0x080c3884                _binary_PS_kyoro_YR5_imb_end
+ .data          0x080c3884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR6.o)
+                0x080c3884                _binary_PS_kyoro_YR6_imb_start
+                0x080c4084                _binary_PS_kyoro_YR6_imb_end
+ .data          0x080c4084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR7.o)
+                0x080c4884                _binary_PS_kyoro_YR7_imb_end
+                0x080c4084                _binary_PS_kyoro_YR7_imb_start
+ .data          0x080c4884      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR8.o)
+                0x080c5084                _binary_PS_kyoro_YR8_imb_end
+                0x080c4884                _binary_PS_kyoro_YR8_imb_start
+ .data          0x080c5084      0x800 bmp/yosbmp//libyosbmp.a(PS_kyoro_YR9.o)
+                0x080c5084                _binary_PS_kyoro_YR9_imb_start
+                0x080c5884                _binary_PS_kyoro_YR9_imb_end
+ .data          0x080c5884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B2.o)
+                0x080c6084                _binary_PS_MEPACHI_B2_imb_end
+                0x080c5884                _binary_PS_MEPACHI_B2_imb_start
+ .data          0x080c6084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B3.o)
+                0x080c6884                _binary_PS_MEPACHI_B3_imb_end
+                0x080c6084                _binary_PS_MEPACHI_B3_imb_start
+ .data          0x080c6884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B4.o)
+                0x080c7084                _binary_PS_MEPACHI_B4_imb_end
+                0x080c6884                _binary_PS_MEPACHI_B4_imb_start
+ .data          0x080c7084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B5.o)
+                0x080c7884                _binary_PS_MEPACHI_B5_imb_end
+                0x080c7084                _binary_PS_MEPACHI_B5_imb_start
+ .data          0x080c7884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_B6.o)
+                0x080c7884                _binary_PS_MEPACHI_B6_imb_start
+                0x080c8084                _binary_PS_MEPACHI_B6_imb_end
+ .data          0x080c8084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M2.o)
+                0x080c8084                _binary_PS_MEPACHI_M2_imb_start
+                0x080c8884                _binary_PS_MEPACHI_M2_imb_end
+ .data          0x080c8884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M3.o)
+                0x080c8884                _binary_PS_MEPACHI_M3_imb_start
+                0x080c9084                _binary_PS_MEPACHI_M3_imb_end
+ .data          0x080c9084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M4.o)
+                0x080c9884                _binary_PS_MEPACHI_M4_imb_end
+                0x080c9084                _binary_PS_MEPACHI_M4_imb_start
+ .data          0x080c9884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M5.o)
+                0x080ca084                _binary_PS_MEPACHI_M5_imb_end
+                0x080c9884                _binary_PS_MEPACHI_M5_imb_start
+ .data          0x080ca084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_M6.o)
+                0x080ca884                _binary_PS_MEPACHI_M6_imb_end
+                0x080ca084                _binary_PS_MEPACHI_M6_imb_start
+ .data          0x080ca884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y2.o)
+                0x080cb084                _binary_PS_MEPACHI_Y2_imb_end
+                0x080ca884                _binary_PS_MEPACHI_Y2_imb_start
+ .data          0x080cb084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y3.o)
+                0x080cb884                _binary_PS_MEPACHI_Y3_imb_end
+                0x080cb084                _binary_PS_MEPACHI_Y3_imb_start
+ .data          0x080cb884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y4.o)
+                0x080cb884                _binary_PS_MEPACHI_Y4_imb_start
+                0x080cc084                _binary_PS_MEPACHI_Y4_imb_end
+ .data          0x080cc084      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y5.o)
+                0x080cc084                _binary_PS_MEPACHI_Y5_imb_start
+                0x080cc884                _binary_PS_MEPACHI_Y5_imb_end
+ .data          0x080cc884      0x800 bmp/yosbmp//libyosbmp.a(PS_MEPACHI_Y6.o)
+                0x080cc884                _binary_PS_MEPACHI_Y6_imb_start
+                0x080cd084                _binary_PS_MEPACHI_Y6_imb_end
+ .data          0x080cd084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back1.o)
+                0x080cd084                _binary_PS_turn_back1_imb_start
+                0x080cd884                _binary_PS_turn_back1_imb_end
+ .data          0x080cd884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back2.o)
+                0x080ce084                _binary_PS_turn_back2_imb_end
+                0x080cd884                _binary_PS_turn_back2_imb_start
+ .data          0x080ce084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back3.o)
+                0x080ce084                _binary_PS_turn_back3_imb_start
+                0x080ce884                _binary_PS_turn_back3_imb_end
+ .data          0x080ce884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back4.o)
+                0x080ce884                _binary_PS_turn_back4_imb_start
+                0x080cf084                _binary_PS_turn_back4_imb_end
+ .data          0x080cf084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back5.o)
+                0x080cf084                _binary_PS_turn_back5_imb_start
+                0x080cf884                _binary_PS_turn_back5_imb_end
+ .data          0x080cf884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back6.o)
+                0x080d0084                _binary_PS_turn_back6_imb_end
+                0x080cf884                _binary_PS_turn_back6_imb_start
+ .data          0x080d0084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_back7.o)
+                0x080d0084                _binary_PS_turn_back7_imb_start
+                0x080d0884                _binary_PS_turn_back7_imb_end
+ .data          0x080d0884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L1.o)
+                0x080d0884                _binary_PS_turn_L1_imb_start
+                0x080d1084                _binary_PS_turn_L1_imb_end
+ .data          0x080d1084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L2.o)
+                0x080d1884                _binary_PS_turn_L2_imb_end
+                0x080d1084                _binary_PS_turn_L2_imb_start
+ .data          0x080d1884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L3.o)
+                0x080d1884                _binary_PS_turn_L3_imb_start
+                0x080d2084                _binary_PS_turn_L3_imb_end
+ .data          0x080d2084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L4.o)
+                0x080d2084                _binary_PS_turn_L4_imb_start
+                0x080d2884                _binary_PS_turn_L4_imb_end
+ .data          0x080d2884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L5.o)
+                0x080d2884                _binary_PS_turn_L5_imb_start
+                0x080d3084                _binary_PS_turn_L5_imb_end
+ .data          0x080d3084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L6.o)
+                0x080d3884                _binary_PS_turn_L6_imb_end
+                0x080d3084                _binary_PS_turn_L6_imb_start
+ .data          0x080d3884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_L7.o)
+                0x080d3884                _binary_PS_turn_L7_imb_start
+                0x080d4084                _binary_PS_turn_L7_imb_end
+ .data          0x080d4084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae1.o)
+                0x080d4884                _binary_PS_turn_mae1_imb_end
+                0x080d4084                _binary_PS_turn_mae1_imb_start
+ .data          0x080d4884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae2.o)
+                0x080d5084                _binary_PS_turn_mae2_imb_end
+                0x080d4884                _binary_PS_turn_mae2_imb_start
+ .data          0x080d5084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae3.o)
+                0x080d5084                _binary_PS_turn_mae3_imb_start
+                0x080d5884                _binary_PS_turn_mae3_imb_end
+ .data          0x080d5884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae4.o)
+                0x080d5884                _binary_PS_turn_mae4_imb_start
+                0x080d6084                _binary_PS_turn_mae4_imb_end
+ .data          0x080d6084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae5.o)
+                0x080d6884                _binary_PS_turn_mae5_imb_end
+                0x080d6084                _binary_PS_turn_mae5_imb_start
+ .data          0x080d6884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae6.o)
+                0x080d7084                _binary_PS_turn_mae6_imb_end
+                0x080d6884                _binary_PS_turn_mae6_imb_start
+ .data          0x080d7084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn_mae7.o)
+                0x080d7084                _binary_PS_turn_mae7_imb_start
+                0x080d7884                _binary_PS_turn_mae7_imb_end
+ .data          0x080d7884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn1.o)
+                0x080d8084                _binary_PS_turn1_imb_end
+                0x080d7884                _binary_PS_turn1_imb_start
+ .data          0x080d8084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn2.o)
+                0x080d8884                _binary_PS_turn2_imb_end
+                0x080d8084                _binary_PS_turn2_imb_start
+ .data          0x080d8884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn3.o)
+                0x080d9084                _binary_PS_turn3_imb_end
+                0x080d8884                _binary_PS_turn3_imb_start
+ .data          0x080d9084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn4.o)
+                0x080d9884                _binary_PS_turn4_imb_end
+                0x080d9084                _binary_PS_turn4_imb_start
+ .data          0x080d9884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn5.o)
+                0x080da084                _binary_PS_turn5_imb_end
+                0x080d9884                _binary_PS_turn5_imb_start
+ .data          0x080da084      0x800 bmp/yosbmp//libyosbmp.a(PS_turn6.o)
+                0x080da084                _binary_PS_turn6_imb_start
+                0x080da884                _binary_PS_turn6_imb_end
+ .data          0x080da884      0x800 bmp/yosbmp//libyosbmp.a(PS_turn7.o)
+                0x080db084                _binary_PS_turn7_imb_end
+                0x080da884                _binary_PS_turn7_imb_start
+ .data          0x080db084      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn1.o)
+                0x080db084                _binary_PS_U_turn1_imb_start
+                0x080db884                _binary_PS_U_turn1_imb_end
+ .data          0x080db884      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn2.o)
+                0x080dc084                _binary_PS_U_turn2_imb_end
+                0x080db884                _binary_PS_U_turn2_imb_start
+ .data          0x080dc084      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn3.o)
+                0x080dc084                _binary_PS_U_turn3_imb_start
+                0x080dc884                _binary_PS_U_turn3_imb_end
+ .data          0x080dc884      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn4.o)
+                0x080dd084                _binary_PS_U_turn4_imb_end
+                0x080dc884                _binary_PS_U_turn4_imb_start
+ .data          0x080dd084      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn5.o)
+                0x080dd084                _binary_PS_U_turn5_imb_start
+                0x080dd884                _binary_PS_U_turn5_imb_end
+ .data          0x080dd884      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn6.o)
+                0x080dd884                _binary_PS_U_turn6_imb_start
+                0x080de084                _binary_PS_U_turn6_imb_end
+ .data          0x080de084      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn7.o)
+                0x080de884                _binary_PS_U_turn7_imb_end
+                0x080de084                _binary_PS_U_turn7_imb_start
+ .data          0x080de884      0x800 bmp/yosbmp//libyosbmp.a(PS_U_turn8.o)
+                0x080df084                _binary_PS_U_turn8_imb_end
+                0x080de884                _binary_PS_U_turn8_imb_start
+ .data          0x080df084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B1.o)
+                0x080df084                _binary_PS_walk_B1_imb_start
+                0x080df884                _binary_PS_walk_B1_imb_end
+ .data          0x080df884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B10.o)
+                0x080e0084                _binary_PS_walk_B10_imb_end
+                0x080df884                _binary_PS_walk_B10_imb_start
+ .data          0x080e0084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B11.o)
+                0x080e0084                _binary_PS_walk_B11_imb_start
+                0x080e0884                _binary_PS_walk_B11_imb_end
+ .data          0x080e0884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B12.o)
+                0x080e1084                _binary_PS_walk_B12_imb_end
+                0x080e0884                _binary_PS_walk_B12_imb_start
+ .data          0x080e1084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B13.o)
+                0x080e1884                _binary_PS_walk_B13_imb_end
+                0x080e1084                _binary_PS_walk_B13_imb_start
+ .data          0x080e1884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B14.o)
+                0x080e2084                _binary_PS_walk_B14_imb_end
+                0x080e1884                _binary_PS_walk_B14_imb_start
+ .data          0x080e2084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B15.o)
+                0x080e2084                _binary_PS_walk_B15_imb_start
+                0x080e2884                _binary_PS_walk_B15_imb_end
+ .data          0x080e2884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B16.o)
+                0x080e2884                _binary_PS_walk_B16_imb_start
+                0x080e3084                _binary_PS_walk_B16_imb_end
+ .data          0x080e3084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B2.o)
+                0x080e3084                _binary_PS_walk_B2_imb_start
+                0x080e3884                _binary_PS_walk_B2_imb_end
+ .data          0x080e3884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B3.o)
+                0x080e4084                _binary_PS_walk_B3_imb_end
+                0x080e3884                _binary_PS_walk_B3_imb_start
+ .data          0x080e4084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B4.o)
+                0x080e4084                _binary_PS_walk_B4_imb_start
+                0x080e4884                _binary_PS_walk_B4_imb_end
+ .data          0x080e4884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B5.o)
+                0x080e4884                _binary_PS_walk_B5_imb_start
+                0x080e5084                _binary_PS_walk_B5_imb_end
+ .data          0x080e5084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B6.o)
+                0x080e5084                _binary_PS_walk_B6_imb_start
+                0x080e5884                _binary_PS_walk_B6_imb_end
+ .data          0x080e5884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B7.o)
+                0x080e5884                _binary_PS_walk_B7_imb_start
+                0x080e6084                _binary_PS_walk_B7_imb_end
+ .data          0x080e6084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B8.o)
+                0x080e6884                _binary_PS_walk_B8_imb_end
+                0x080e6084                _binary_PS_walk_B8_imb_start
+ .data          0x080e6884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_B9.o)
+                0x080e7084                _binary_PS_walk_B9_imb_end
+                0x080e6884                _binary_PS_walk_B9_imb_start
+ .data          0x080e7084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M1.o)
+                0x080e7084                _binary_PS_walk_M1_imb_start
+                0x080e7884                _binary_PS_walk_M1_imb_end
+ .data          0x080e7884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M10.o)
+                0x080e8084                _binary_PS_walk_M10_imb_end
+                0x080e7884                _binary_PS_walk_M10_imb_start
+ .data          0x080e8084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M11.o)
+                0x080e8084                _binary_PS_walk_M11_imb_start
+                0x080e8884                _binary_PS_walk_M11_imb_end
+ .data          0x080e8884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M12.o)
+                0x080e8884                _binary_PS_walk_M12_imb_start
+                0x080e9084                _binary_PS_walk_M12_imb_end
+ .data          0x080e9084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M13.o)
+                0x080e9884                _binary_PS_walk_M13_imb_end
+                0x080e9084                _binary_PS_walk_M13_imb_start
+ .data          0x080e9884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M14.o)
+                0x080e9884                _binary_PS_walk_M14_imb_start
+                0x080ea084                _binary_PS_walk_M14_imb_end
+ .data          0x080ea084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M15.o)
+                0x080ea884                _binary_PS_walk_M15_imb_end
+                0x080ea084                _binary_PS_walk_M15_imb_start
+ .data          0x080ea884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M16.o)
+                0x080eb084                _binary_PS_walk_M16_imb_end
+                0x080ea884                _binary_PS_walk_M16_imb_start
+ .data          0x080eb084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M2.o)
+                0x080eb084                _binary_PS_walk_M2_imb_start
+                0x080eb884                _binary_PS_walk_M2_imb_end
+ .data          0x080eb884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M3.o)
+                0x080eb884                _binary_PS_walk_M3_imb_start
+                0x080ec084                _binary_PS_walk_M3_imb_end
+ .data          0x080ec084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M4.o)
+                0x080ec884                _binary_PS_walk_M4_imb_end
+                0x080ec084                _binary_PS_walk_M4_imb_start
+ .data          0x080ec884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M5.o)
+                0x080ed084                _binary_PS_walk_M5_imb_end
+                0x080ec884                _binary_PS_walk_M5_imb_start
+ .data          0x080ed084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M6.o)
+                0x080ed084                _binary_PS_walk_M6_imb_start
+                0x080ed884                _binary_PS_walk_M6_imb_end
+ .data          0x080ed884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M7.o)
+                0x080ee084                _binary_PS_walk_M7_imb_end
+                0x080ed884                _binary_PS_walk_M7_imb_start
+ .data          0x080ee084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M8.o)
+                0x080ee884                _binary_PS_walk_M8_imb_end
+                0x080ee084                _binary_PS_walk_M8_imb_start
+ .data          0x080ee884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_M9.o)
+                0x080ee884                _binary_PS_walk_M9_imb_start
+                0x080ef084                _binary_PS_walk_M9_imb_end
+ .data          0x080ef084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y1.o)
+                0x080ef884                _binary_PS_walk_Y1_imb_end
+                0x080ef084                _binary_PS_walk_Y1_imb_start
+ .data          0x080ef884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y2.o)
+                0x080f0084                _binary_PS_walk_Y2_imb_end
+                0x080ef884                _binary_PS_walk_Y2_imb_start
+ .data          0x080f0084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y3.o)
+                0x080f0084                _binary_PS_walk_Y3_imb_start
+                0x080f0884                _binary_PS_walk_Y3_imb_end
+ .data          0x080f0884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y4.o)
+                0x080f1084                _binary_PS_walk_Y4_imb_end
+                0x080f0884                _binary_PS_walk_Y4_imb_start
+ .data          0x080f1084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y5.o)
+                0x080f1884                _binary_PS_walk_Y5_imb_end
+                0x080f1084                _binary_PS_walk_Y5_imb_start
+ .data          0x080f1884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y6.o)
+                0x080f1884                _binary_PS_walk_Y6_imb_start
+                0x080f2084                _binary_PS_walk_Y6_imb_end
+ .data          0x080f2084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y7.o)
+                0x080f2884                _binary_PS_walk_Y7_imb_end
+                0x080f2084                _binary_PS_walk_Y7_imb_start
+ .data          0x080f2884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y8.o)
+                0x080f3084                _binary_PS_walk_Y8_imb_end
+                0x080f2884                _binary_PS_walk_Y8_imb_start
+ .data          0x080f3084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y9.o)
+                0x080f3084                _binary_PS_walk_Y9_imb_start
+                0x080f3884                _binary_PS_walk_Y9_imb_end
+ .data          0x080f3884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y10.o)
+                0x080f4084                _binary_PS_walk_Y10_imb_end
+                0x080f3884                _binary_PS_walk_Y10_imb_start
+ .data          0x080f4084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y11.o)
+                0x080f4884                _binary_PS_walk_Y11_imb_end
+                0x080f4084                _binary_PS_walk_Y11_imb_start
+ .data          0x080f4884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y12.o)
+                0x080f4884                _binary_PS_walk_Y12_imb_start
+                0x080f5084                _binary_PS_walk_Y12_imb_end
+ .data          0x080f5084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y13.o)
+                0x080f5884                _binary_PS_walk_Y13_imb_end
+                0x080f5084                _binary_PS_walk_Y13_imb_start
+ .data          0x080f5884      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y14.o)
+                0x080f6084                _binary_PS_walk_Y14_imb_end
+                0x080f5884                _binary_PS_walk_Y14_imb_start
+ .data          0x080f6084      0x800 bmp/yosbmp//libyosbmp.a(PS_walk_Y15.o)
+                0x080f6884                _binary_PS_walk_Y15_imb_end
+                0x080f6084                _binary_PS_walk_Y15_imb_start
+ .data          0x080f6884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_001.o)
+                0x080f6c84                _binary_HEIHO929_001_imb_end
+                0x080f6884                _binary_HEIHO929_001_imb_start
+ .data          0x080f6c84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_003.o)
+                0x080f7084                _binary_HEIHO929_003_imb_end
+                0x080f6c84                _binary_HEIHO929_003_imb_start
+ .data          0x080f7084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_005.o)
+                0x080f7084                _binary_HEIHO929_005_imb_start
+                0x080f7484                _binary_HEIHO929_005_imb_end
+ .data          0x080f7484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_007.o)
+                0x080f7884                _binary_HEIHO929_007_imb_end
+                0x080f7484                _binary_HEIHO929_007_imb_start
+ .data          0x080f7884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_009.o)
+                0x080f7884                _binary_HEIHO929_009_imb_start
+                0x080f7c84                _binary_HEIHO929_009_imb_end
+ .data          0x080f7c84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_011.o)
+                0x080f8084                _binary_HEIHO929_011_imb_end
+                0x080f7c84                _binary_HEIHO929_011_imb_start
+ .data          0x080f8084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_013.o)
+                0x080f8484                _binary_HEIHO929_013_imb_end
+                0x080f8084                _binary_HEIHO929_013_imb_start
+ .data          0x080f8484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_015.o)
+                0x080f8884                _binary_HEIHO929_015_imb_end
+                0x080f8484                _binary_HEIHO929_015_imb_start
+ .data          0x080f8884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002.o)
+                0x080f8884                _binary_HEIHO_normal_walk_turn_002_imb_start
+                0x080f8c84                _binary_HEIHO_normal_walk_turn_002_imb_end
+ .data          0x080f8c84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003.o)
+                0x080f9084                _binary_HEIHO_normal_walk_turn_003_imb_end
+                0x080f8c84                _binary_HEIHO_normal_walk_turn_003_imb_start
+ .data          0x080f9084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_001_b.o)
+                0x080f9484                _binary_HEIHO929_001_b_imb_end
+                0x080f9084                _binary_HEIHO929_001_b_imb_start
+ .data          0x080f9484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_003_b.o)
+                0x080f9884                _binary_HEIHO929_003_b_imb_end
+                0x080f9484                _binary_HEIHO929_003_b_imb_start
+ .data          0x080f9884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_005_b.o)
+                0x080f9c84                _binary_HEIHO929_005_b_imb_end
+                0x080f9884                _binary_HEIHO929_005_b_imb_start
+ .data          0x080f9c84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_007_b.o)
+                0x080f9c84                _binary_HEIHO929_007_b_imb_start
+                0x080fa084                _binary_HEIHO929_007_b_imb_end
+ .data          0x080fa084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_009_b.o)
+                0x080fa084                _binary_HEIHO929_009_b_imb_start
+                0x080fa484                _binary_HEIHO929_009_b_imb_end
+ .data          0x080fa484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_011_b.o)
+                0x080fa484                _binary_HEIHO929_011_b_imb_start
+                0x080fa884                _binary_HEIHO929_011_b_imb_end
+ .data          0x080fa884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_013_b.o)
+                0x080fa884                _binary_HEIHO929_013_b_imb_start
+                0x080fac84                _binary_HEIHO929_013_b_imb_end
+ .data          0x080fac84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_015_b.o)
+                0x080fac84                _binary_HEIHO929_015_b_imb_start
+                0x080fb084                _binary_HEIHO929_015_b_imb_end
+ .data          0x080fb084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_b.o)
+                0x080fb484                _binary_HEIHO_normal_walk_turn_002_b_imb_end
+                0x080fb084                _binary_HEIHO_normal_walk_turn_002_b_imb_start
+ .data          0x080fb484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_b.o)
+                0x080fb484                _binary_HEIHO_normal_walk_turn_003_b_imb_start
+                0x080fb884                _binary_HEIHO_normal_walk_turn_003_b_imb_end
+ .data          0x080fb884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_001_g.o)
+                0x080fb884                _binary_HEIHO929_001_g_imb_start
+                0x080fbc84                _binary_HEIHO929_001_g_imb_end
+ .data          0x080fbc84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_003_g.o)
+                0x080fc084                _binary_HEIHO929_003_g_imb_end
+                0x080fbc84                _binary_HEIHO929_003_g_imb_start
+ .data          0x080fc084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_005_g.o)
+                0x080fc484                _binary_HEIHO929_005_g_imb_end
+                0x080fc084                _binary_HEIHO929_005_g_imb_start
+ .data          0x080fc484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_007_g.o)
+                0x080fc884                _binary_HEIHO929_007_g_imb_end
+                0x080fc484                _binary_HEIHO929_007_g_imb_start
+ .data          0x080fc884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_009_g.o)
+                0x080fc884                _binary_HEIHO929_009_g_imb_start
+                0x080fcc84                _binary_HEIHO929_009_g_imb_end
+ .data          0x080fcc84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_011_g.o)
+                0x080fcc84                _binary_HEIHO929_011_g_imb_start
+                0x080fd084                _binary_HEIHO929_011_g_imb_end
+ .data          0x080fd084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_013_g.o)
+                0x080fd084                _binary_HEIHO929_013_g_imb_start
+                0x080fd484                _binary_HEIHO929_013_g_imb_end
+ .data          0x080fd484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_015_g.o)
+                0x080fd884                _binary_HEIHO929_015_g_imb_end
+                0x080fd484                _binary_HEIHO929_015_g_imb_start
+ .data          0x080fd884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_g.o)
+                0x080fdc84                _binary_HEIHO_normal_walk_turn_002_g_imb_end
+                0x080fd884                _binary_HEIHO_normal_walk_turn_002_g_imb_start
+ .data          0x080fdc84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_g.o)
+                0x080fe084                _binary_HEIHO_normal_walk_turn_003_g_imb_end
+                0x080fdc84                _binary_HEIHO_normal_walk_turn_003_g_imb_start
+ .data          0x080fe084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_001_y.o)
+                0x080fe484                _binary_HEIHO929_001_y_imb_end
+                0x080fe084                _binary_HEIHO929_001_y_imb_start
+ .data          0x080fe484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_003_y.o)
+                0x080fe484                _binary_HEIHO929_003_y_imb_start
+                0x080fe884                _binary_HEIHO929_003_y_imb_end
+ .data          0x080fe884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_005_y.o)
+                0x080fec84                _binary_HEIHO929_005_y_imb_end
+                0x080fe884                _binary_HEIHO929_005_y_imb_start
+ .data          0x080fec84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_007_y.o)
+                0x080ff084                _binary_HEIHO929_007_y_imb_end
+                0x080fec84                _binary_HEIHO929_007_y_imb_start
+ .data          0x080ff084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_009_y.o)
+                0x080ff084                _binary_HEIHO929_009_y_imb_start
+                0x080ff484                _binary_HEIHO929_009_y_imb_end
+ .data          0x080ff484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_011_y.o)
+                0x080ff484                _binary_HEIHO929_011_y_imb_start
+                0x080ff884                _binary_HEIHO929_011_y_imb_end
+ .data          0x080ff884      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_013_y.o)
+                0x080ffc84                _binary_HEIHO929_013_y_imb_end
+                0x080ff884                _binary_HEIHO929_013_y_imb_start
+ .data          0x080ffc84      0x400 bmp/yosbmp//libyosbmp.a(HEIHO929_015_y.o)
+                0x08100084                _binary_HEIHO929_015_y_imb_end
+                0x080ffc84                _binary_HEIHO929_015_y_imb_start
+ .data          0x08100084      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_002_y.o)
+                0x08100484                _binary_HEIHO_normal_walk_turn_002_y_imb_end
+                0x08100084                _binary_HEIHO_normal_walk_turn_002_y_imb_start
+ .data          0x08100484      0x400 bmp/yosbmp//libyosbmp.a(HEIHO_normal_walk_turn_003_y.o)
+                0x08100484                _binary_HEIHO_normal_walk_turn_003_y_imb_start
+                0x08100884                _binary_HEIHO_normal_walk_turn_003_y_imb_end
+ .data          0x08100884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_001.o)
+                0x08100884                _binary_HEIHO_l_001_imb_start
+                0x08101884                _binary_HEIHO_l_001_imb_end
+ .data          0x08101884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_003.o)
+                0x08102884                _binary_HEIHO_l_003_imb_end
+                0x08101884                _binary_HEIHO_l_003_imb_start
+ .data          0x08102884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_005.o)
+                0x08102884                _binary_HEIHO_l_005_imb_start
+                0x08103884                _binary_HEIHO_l_005_imb_end
+ .data          0x08103884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_007.o)
+                0x08103884                _binary_HEIHO_l_007_imb_start
+                0x08104884                _binary_HEIHO_l_007_imb_end
+ .data          0x08104884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_009.o)
+                0x08104884                _binary_HEIHO_l_009_imb_start
+                0x08105884                _binary_HEIHO_l_009_imb_end
+ .data          0x08105884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_011.o)
+                0x08105884                _binary_HEIHO_l_011_imb_start
+                0x08106884                _binary_HEIHO_l_011_imb_end
+ .data          0x08106884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_013.o)
+                0x08107884                _binary_HEIHO_l_013_imb_end
+                0x08106884                _binary_HEIHO_l_013_imb_start
+ .data          0x08107884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_015.o)
+                0x08107884                _binary_HEIHO_l_015_imb_start
+                0x08108884                _binary_HEIHO_l_015_imb_end
+ .data          0x08108884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_turn_002.o)
+                0x08109884                _binary_HEIHO_l_turn_002_imb_end
+                0x08108884                _binary_HEIHO_l_turn_002_imb_start
+ .data          0x08109884     0x1000 bmp/yosbmp//libyosbmp.a(HEIHO_l_turn_003.o)
+                0x0810a884                _binary_HEIHO_l_turn_003_imb_end
+                0x08109884                _binary_HEIHO_l_turn_003_imb_start
+ .data          0x0810a884      0x400 bmp/yosbmp//libyosbmp.a(mBOX1.o)
+                0x0810a884                _binary_mBOX1_imb_start
+                0x0810ac84                _binary_mBOX1_imb_end
+ .data          0x0810ac84      0x400 bmp/yosbmp//libyosbmp.a(mBOX2.o)
+                0x0810b084                _binary_mBOX2_imb_end
+                0x0810ac84                _binary_mBOX2_imb_start
+ .data          0x0810b084      0x400 bmp/yosbmp//libyosbmp.a(DDDD_A.o)
+                0x0810b484                _binary_DDDD_A_imb_end
+                0x0810b084                _binary_DDDD_A_imb_start
+ .data          0x0810b484      0x400 bmp/yosbmp//libyosbmp.a(DDDD_B.o)
+                0x0810b484                _binary_DDDD_B_imb_start
+                0x0810b884                _binary_DDDD_B_imb_end
+ .data          0x0810b884      0x400 bmp/yosbmp//libyosbmp.a(DDDD_C.o)
+                0x0810bc84                _binary_DDDD_C_imb_end
+                0x0810b884                _binary_DDDD_C_imb_start
+ .data          0x0810bc84      0x400 bmp/yosbmp//libyosbmp.a(CCCC_A.o)
+                0x0810c084                _binary_CCCC_A_imb_end
+                0x0810bc84                _binary_CCCC_A_imb_start
+ .data          0x0810c084      0x400 bmp/yosbmp//libyosbmp.a(CCCC_B.o)
+                0x0810c084                _binary_CCCC_B_imb_start
+                0x0810c484                _binary_CCCC_B_imb_end
+ .data          0x0810c484      0x400 bmp/yosbmp//libyosbmp.a(CCCC_C.o)
+                0x0810c484                _binary_CCCC_C_imb_start
+                0x0810c884                _binary_CCCC_C_imb_end
+ .data          0x0810c884      0x400 bmp/yosbmp//libyosbmp.a(NNNN_A.o)
+                0x0810cc84                _binary_NNNN_A_imb_end
+                0x0810c884                _binary_NNNN_A_imb_start
+ .data          0x0810cc84      0x400 bmp/yosbmp//libyosbmp.a(NNNN_B.o)
+                0x0810cc84                _binary_NNNN_B_imb_start
+                0x0810d084                _binary_NNNN_B_imb_end
+ .data          0x0810d084      0x400 bmp/yosbmp//libyosbmp.a(NNNN_C.o)
+                0x0810d084                _binary_NNNN_C_imb_start
+                0x0810d484                _binary_NNNN_C_imb_end
+ .data          0x0810d484      0x400 bmp/yosbmp//libyosbmp.a(SSSS_A.o)
+                0x0810d884                _binary_SSSS_A_imb_end
+                0x0810d484                _binary_SSSS_A_imb_start
+ .data          0x0810d884      0x400 bmp/yosbmp//libyosbmp.a(SSSS_B.o)
+                0x0810dc84                _binary_SSSS_B_imb_end
+                0x0810d884                _binary_SSSS_B_imb_start
+ .data          0x0810dc84      0x400 bmp/yosbmp//libyosbmp.a(SSSS_C.o)
+                0x0810dc84                _binary_SSSS_C_imb_start
+                0x0810e084                _binary_SSSS_C_imb_end
+ .data          0x0810e084      0x400 bmp/yosbmp//libyosbmp.a(sPPPP_A.o)
+                0x0810e484                _binary_sPPPP_A_imb_end
+                0x0810e084                _binary_sPPPP_A_imb_start
+ .data          0x0810e484      0x400 bmp/yosbmp//libyosbmp.a(sPPPP_B.o)
+                0x0810e484                _binary_sPPPP_B_imb_start
+                0x0810e884                _binary_sPPPP_B_imb_end
+ .data          0x0810e884      0x400 bmp/yosbmp//libyosbmp.a(sPPPP_C.o)
+                0x0810ec84                _binary_sPPPP_C_imb_end
+                0x0810e884                _binary_sPPPP_C_imb_start
+ .data          0x0810ec84      0x400 bmp/yosbmp//libyosbmp.a(killer_s2.o)
+                0x0810ec84                _binary_killer_s2_imb_start
+                0x0810f084                _binary_killer_s2_imb_end
+ .data          0x0810f084      0x400 bmp/yosbmp//libyosbmp.a(killer_s3.o)
+                0x0810f484                _binary_killer_s3_imb_end
+                0x0810f084                _binary_killer_s3_imb_start
+ .data          0x0810f484      0x400 bmp/yosbmp//libyosbmp.a(killer_sA.o)
+                0x0810f884                _binary_killer_sA_imb_end
+                0x0810f484                _binary_killer_sA_imb_start
+ .data          0x0810f884      0x400 bmp/yosbmp//libyosbmp.a(killer_sAA.o)
+                0x0810f884                _binary_killer_sAA_imb_start
+                0x0810fc84                _binary_killer_sAA_imb_end
+ .data          0x0810fc84      0x400 bmp/yosbmp//libyosbmp.a(killer_sB.o)
+                0x0810fc84                _binary_killer_sB_imb_start
+                0x08110084                _binary_killer_sB_imb_end
+ .data          0x08110084      0x400 bmp/yosbmp//libyosbmp.a(killer_sC.o)
+                0x08110484                _binary_killer_sC_imb_end
+                0x08110084                _binary_killer_sC_imb_start
+ .data          0x08110484      0x400 bmp/yosbmp//libyosbmp.a(killer_sD.o)
+                0x08110484                _binary_killer_sD_imb_start
+                0x08110884                _binary_killer_sD_imb_end
+ .data          0x08110884      0x400 bmp/yosbmp//libyosbmp.a(killer_sE.o)
+                0x08110c84                _binary_killer_sE_imb_end
+                0x08110884                _binary_killer_sE_imb_start
+ .data          0x08110c84      0x400 bmp/yosbmp//libyosbmp.a(kokamek_d.o)
+                0x08111084                _binary_kokamek_d_imb_end
+                0x08110c84                _binary_kokamek_d_imb_start
+ .data          0x08111084      0x400 bmp/yosbmp//libyosbmp.a(kokamek_e.o)
+                0x08111484                _binary_kokamek_e_imb_end
+                0x08111084                _binary_kokamek_e_imb_start
+ .data          0x08111484      0x400 bmp/yosbmp//libyosbmp.a(kururi1.o)
+                0x08111484                _binary_kururi1_imb_start
+                0x08111884                _binary_kururi1_imb_end
+ .data          0x08111884      0x400 bmp/yosbmp//libyosbmp.a(kururi2.o)
+                0x08111884                _binary_kururi2_imb_start
+                0x08111c84                _binary_kururi2_imb_end
+ .data          0x08111c84      0x400 bmp/yosbmp//libyosbmp.a(kururi3.o)
+                0x08111c84                _binary_kururi3_imb_start
+                0x08112084                _binary_kururi3_imb_end
+ .data          0x08112084      0x400 bmp/yosbmp//libyosbmp.a(kururi4.o)
+                0x08112484                _binary_kururi4_imb_end
+                0x08112084                _binary_kururi4_imb_start
+ .data          0x08112484      0x400 bmp/yosbmp//libyosbmp.a(kururi5.o)
+                0x08112484                _binary_kururi5_imb_start
+                0x08112884                _binary_kururi5_imb_end
+ .data          0x08112884      0x400 bmp/yosbmp//libyosbmp.a(kururi6.o)
+                0x08112884                _binary_kururi6_imb_start
+                0x08112c84                _binary_kururi6_imb_end
+ .data          0x08112c84      0x400 bmp/yosbmp//libyosbmp.a(kururi7.o)
+                0x08113084                _binary_kururi7_imb_end
+                0x08112c84                _binary_kururi7_imb_start
+ .data          0x08113084      0x400 bmp/yosbmp//libyosbmp.a(kururi8.o)
+                0x08113084                _binary_kururi8_imb_start
+                0x08113484                _binary_kururi8_imb_end
+ .data          0x08113484      0x400 bmp/yosbmp//libyosbmp.a(balloon01.o)
+                0x08113884                _binary_balloon01_imb_end
+                0x08113484                _binary_balloon01_imb_start
+ .data          0x08113884      0x400 bmp/yosbmp//libyosbmp.a(balloon02.o)
+                0x08113884                _binary_balloon02_imb_start
+                0x08113c84                _binary_balloon02_imb_end
+ .data          0x08113c84      0x400 bmp/yosbmp//libyosbmp.a(balloon03.o)
+                0x08113c84                _binary_balloon03_imb_start
+                0x08114084                _binary_balloon03_imb_end
+ .data          0x08114084      0x400 bmp/yosbmp//libyosbmp.a(balloon04.o)
+                0x08114484                _binary_balloon04_imb_end
+                0x08114084                _binary_balloon04_imb_start
+ .data          0x08114484      0x400 bmp/yosbmp//libyosbmp.a(balloon05.o)
+                0x08114484                _binary_balloon05_imb_start
+                0x08114884                _binary_balloon05_imb_end
+ .data          0x08114884      0x400 bmp/yosbmp//libyosbmp.a(balloon06.o)
+                0x08114884                _binary_balloon06_imb_start
+                0x08114c84                _binary_balloon06_imb_end
+ .data          0x08114c84      0x400 bmp/yosbmp//libyosbmp.a(balloon07.o)
+                0x08115084                _binary_balloon07_imb_end
+                0x08114c84                _binary_balloon07_imb_start
+ .data          0x08115084      0x400 bmp/yosbmp//libyosbmp.a(balloon08.o)
+                0x08115484                _binary_balloon08_imb_end
+                0x08115084                _binary_balloon08_imb_start
+ .data          0x08115484      0x400 bmp/yosbmp//libyosbmp.a(balloon09.o)
+                0x08115484                _binary_balloon09_imb_start
+                0x08115884                _binary_balloon09_imb_end
+ .data          0x08115884      0x400 bmp/yosbmp//libyosbmp.a(balloon10.o)
+                0x08115884                _binary_balloon10_imb_start
+                0x08115c84                _binary_balloon10_imb_end
+ .data          0x08115c84      0x400 bmp/yosbmp//libyosbmp.a(balloon11.o)
+                0x08115c84                _binary_balloon11_imb_start
+                0x08116084                _binary_balloon11_imb_end
+ .data          0x08116084      0x400 bmp/yosbmp//libyosbmp.a(balloon12.o)
+                0x08116484                _binary_balloon12_imb_end
+                0x08116084                _binary_balloon12_imb_start
+ .data          0x08116484      0x400 bmp/yosbmp//libyosbmp.a(balloon13.o)
+                0x08116884                _binary_balloon13_imb_end
+                0x08116484                _binary_balloon13_imb_start
+ .data          0x08116884      0x400 bmp/yosbmp//libyosbmp.a(bomb_2.o)
+                0x08116884                _binary_bomb_2_imb_start
+                0x08116c84                _binary_bomb_2_imb_end
+ .data          0x08116c84      0x400 bmp/yosbmp//libyosbmp.a(bomb_3.o)
+                0x08116c84                _binary_bomb_3_imb_start
+                0x08117084                _binary_bomb_3_imb_end
+ .data          0x08117084      0x400 bmp/yosbmp//libyosbmp.a(bomb_4.o)
+                0x08117484                _binary_bomb_4_imb_end
+                0x08117084                _binary_bomb_4_imb_start
+ .data          0x08117484      0x400 bmp/yosbmp//libyosbmp.a(bomb_5.o)
+                0x08117884                _binary_bomb_5_imb_end
+                0x08117484                _binary_bomb_5_imb_start
+ .data          0x08117884      0xc00 bmp/yosbmp//libyosbmp.a(casle1p.o)
+                0x08117884                _binary_casle1p_imb_start
+                0x08118484                _binary_casle1p_imb_end
+ .data          0x08118484      0xc00 bmp/yosbmp//libyosbmp.a(casle3p.o)
+                0x08119084                _binary_casle3p_imb_end
+                0x08118484                _binary_casle3p_imb_start
+ .data          0x08119084      0xc00 bmp/yosbmp//libyosbmp.a(casle4p.o)
+                0x08119c84                _binary_casle4p_imb_end
+                0x08119084                _binary_casle4p_imb_start
+ .data          0x08119c84      0xc00 bmp/yosbmp//libyosbmp.a(casle5p.o)
+                0x0811a884                _binary_casle5p_imb_end
+                0x08119c84                _binary_casle5p_imb_start
+ .data          0x0811a884      0xc00 bmp/yosbmp//libyosbmp.a(casle6p.o)
+                0x0811b484                _binary_casle6p_imb_end
+                0x0811a884                _binary_casle6p_imb_start
+ .data          0x0811b484      0xc00 bmp/yosbmp//libyosbmp.a(casle7p.o)
+                0x0811b484                _binary_casle7p_imb_start
+                0x0811c084                _binary_casle7p_imb_end
+ .data          0x0811c084    0x12c00 bmp/yosbmp//libyosbmp.a(casle1.o)
+                0x0812ec84                _binary_casle1_imb_end
+                0x0811c084                _binary_casle1_imb_start
+ .data          0x0812ec84    0x12c00 bmp/yosbmp//libyosbmp.a(casle3.o)
+                0x0812ec84                _binary_casle3_imb_start
+                0x08141884                _binary_casle3_imb_end
+ .data          0x08141884    0x12c00 bmp/yosbmp//libyosbmp.a(casle4.o)
+                0x08154484                _binary_casle4_imb_end
+                0x08141884                _binary_casle4_imb_start
+ .data          0x08154484    0x12c00 bmp/yosbmp//libyosbmp.a(casle5.o)
+                0x08167084                _binary_casle5_imb_end
+                0x08154484                _binary_casle5_imb_start
+ .data          0x08167084    0x12c00 bmp/yosbmp//libyosbmp.a(casle6.o)
+                0x08179c84                _binary_casle6_imb_end
+                0x08167084                _binary_casle6_imb_start
+ .data          0x08179c84    0x12c00 bmp/yosbmp//libyosbmp.a(casle7.o)
+                0x08179c84                _binary_casle7_imb_start
+                0x0818c884                _binary_casle7_imb_end
+ .data          0x0818c884     0x2918 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_1.o)
+                0x0818ef44                _binary_yoshi_island_990907_0_1_imb_end
+                0x0818f19c                _binary_yoshi_island_990907_0_1_mpb_end
+                0x0818c884                _binary_yoshi_island_990907_0_1_imb_start
+                0x0818ef44                _binary_yoshi_island_990907_0_1_mpb_start
+ .data          0x0818f19c     0x28d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_10.o)
+                0x0819181c                _binary_yoshi_island_990907_0_10_mpb_start
+                0x0818f19c                _binary_yoshi_island_990907_0_10_imb_start
+                0x08191a74                _binary_yoshi_island_990907_0_10_mpb_end
+                0x0819181c                _binary_yoshi_island_990907_0_10_imb_end
+ .data          0x08191a74     0x2898 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_11.o)
+                0x0819430c                _binary_yoshi_island_990907_0_11_mpb_end
+                0x08191a74                _binary_yoshi_island_990907_0_11_imb_start
+                0x081940b4                _binary_yoshi_island_990907_0_11_mpb_start
+                0x081940b4                _binary_yoshi_island_990907_0_11_imb_end
+ .data          0x0819430c     0x28d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_12.o)
+                0x0819698c                _binary_yoshi_island_990907_0_12_imb_end
+                0x08196be4                _binary_yoshi_island_990907_0_12_mpb_end
+                0x0819430c                _binary_yoshi_island_990907_0_12_imb_start
+                0x0819698c                _binary_yoshi_island_990907_0_12_mpb_start
+ .data          0x08196be4     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_13.o)
+                0x08199364                _binary_yoshi_island_990907_0_13_imb_end
+                0x081995bc                _binary_yoshi_island_990907_0_13_mpb_end
+                0x08199364                _binary_yoshi_island_990907_0_13_mpb_start
+                0x08196be4                _binary_yoshi_island_990907_0_13_imb_start
+ .data          0x081995bc     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_14.o)
+                0x0819bd7c                _binary_yoshi_island_990907_0_14_mpb_start
+                0x0819bd7c                _binary_yoshi_island_990907_0_14_imb_end
+                0x0819bfd4                _binary_yoshi_island_990907_0_14_mpb_end
+                0x081995bc                _binary_yoshi_island_990907_0_14_imb_start
+ .data          0x0819bfd4     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_15.o)
+                0x0819bfd4                _binary_yoshi_island_990907_0_15_imb_start
+                0x0819e9ac                _binary_yoshi_island_990907_0_15_mpb_end
+                0x0819e754                _binary_yoshi_island_990907_0_15_mpb_start
+                0x0819e754                _binary_yoshi_island_990907_0_15_imb_end
+ .data          0x0819e9ac     0x2958 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_16.o)
+                0x081a1304                _binary_yoshi_island_990907_0_16_mpb_end
+                0x081a10ac                _binary_yoshi_island_990907_0_16_mpb_start
+                0x081a10ac                _binary_yoshi_island_990907_0_16_imb_end
+                0x0819e9ac                _binary_yoshi_island_990907_0_16_imb_start
+ .data          0x081a1304     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_17.o)
+                0x081a3ac4                _binary_yoshi_island_990907_0_17_imb_end
+                0x081a1304                _binary_yoshi_island_990907_0_17_imb_start
+                0x081a3d1c                _binary_yoshi_island_990907_0_17_mpb_end
+                0x081a3ac4                _binary_yoshi_island_990907_0_17_mpb_start
+ .data          0x081a3d1c     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_18.o)
+                0x081a66f4                _binary_yoshi_island_990907_0_18_mpb_end
+                0x081a3d1c                _binary_yoshi_island_990907_0_18_imb_start
+                0x081a649c                _binary_yoshi_island_990907_0_18_imb_end
+                0x081a649c                _binary_yoshi_island_990907_0_18_mpb_start
+ .data          0x081a66f4     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_19.o)
+                0x081a8ef4                _binary_yoshi_island_990907_0_19_mpb_start
+                0x081a66f4                _binary_yoshi_island_990907_0_19_imb_start
+                0x081a914c                _binary_yoshi_island_990907_0_19_mpb_end
+                0x081a8ef4                _binary_yoshi_island_990907_0_19_imb_end
+ .data          0x081a914c     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_2.o)
+                0x081ab8cc                _binary_yoshi_island_990907_0_2_imb_end
+                0x081a914c                _binary_yoshi_island_990907_0_2_imb_start
+                0x081abb24                _binary_yoshi_island_990907_0_2_mpb_end
+                0x081ab8cc                _binary_yoshi_island_990907_0_2_mpb_start
+ .data          0x081abb24     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_20.o)
+                0x081ae2a4                _binary_yoshi_island_990907_0_20_mpb_start
+                0x081abb24                _binary_yoshi_island_990907_0_20_imb_start
+                0x081ae4fc                _binary_yoshi_island_990907_0_20_mpb_end
+                0x081ae2a4                _binary_yoshi_island_990907_0_20_imb_end
+ .data          0x081ae4fc     0x2ad8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_21.o)
+                0x081b0fd4                _binary_yoshi_island_990907_0_21_mpb_end
+                0x081ae4fc                _binary_yoshi_island_990907_0_21_imb_start
+                0x081b0d7c                _binary_yoshi_island_990907_0_21_mpb_start
+                0x081b0d7c                _binary_yoshi_island_990907_0_21_imb_end
+ .data          0x081b0fd4     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_22.o)
+                0x081b0fd4                _binary_yoshi_island_990907_0_22_imb_start
+                0x081b39ec                _binary_yoshi_island_990907_0_22_mpb_end
+                0x081b3794                _binary_yoshi_island_990907_0_22_imb_end
+                0x081b3794                _binary_yoshi_island_990907_0_22_mpb_start
+ .data          0x081b39ec     0x28d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_23.o)
+                0x081b39ec                _binary_yoshi_island_990907_0_23_imb_start
+                0x081b62c4                _binary_yoshi_island_990907_0_23_mpb_end
+                0x081b606c                _binary_yoshi_island_990907_0_23_mpb_start
+                0x081b606c                _binary_yoshi_island_990907_0_23_imb_end
+ .data          0x081b62c4     0x2958 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_24.o)
+                0x081b89c4                _binary_yoshi_island_990907_0_24_imb_end
+                0x081b8c1c                _binary_yoshi_island_990907_0_24_mpb_end
+                0x081b89c4                _binary_yoshi_island_990907_0_24_mpb_start
+                0x081b62c4                _binary_yoshi_island_990907_0_24_imb_start
+ .data          0x081b8c1c     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_25.o)
+                0x081b8c1c                _binary_yoshi_island_990907_0_25_imb_start
+                0x081bb41c                _binary_yoshi_island_990907_0_25_imb_end
+                0x081bb41c                _binary_yoshi_island_990907_0_25_mpb_start
+                0x081bb674                _binary_yoshi_island_990907_0_25_mpb_end
+ .data          0x081bb674     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_26.o)
+                0x081bde34                _binary_yoshi_island_990907_0_26_mpb_start
+                0x081be08c                _binary_yoshi_island_990907_0_26_mpb_end
+                0x081bde34                _binary_yoshi_island_990907_0_26_imb_end
+                0x081bb674                _binary_yoshi_island_990907_0_26_imb_start
+ .data          0x081be08c     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_27.o)
+                0x081be08c                _binary_yoshi_island_990907_0_27_imb_start
+                0x081c0a64                _binary_yoshi_island_990907_0_27_mpb_end
+                0x081c080c                _binary_yoshi_island_990907_0_27_imb_end
+                0x081c080c                _binary_yoshi_island_990907_0_27_mpb_start
+ .data          0x081c0a64     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_28.o)
+                0x081c347c                _binary_yoshi_island_990907_0_28_mpb_end
+                0x081c3224                _binary_yoshi_island_990907_0_28_imb_end
+                0x081c3224                _binary_yoshi_island_990907_0_28_mpb_start
+                0x081c0a64                _binary_yoshi_island_990907_0_28_imb_start
+ .data          0x081c347c     0x2998 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_29.o)
+                0x081c5bbc                _binary_yoshi_island_990907_0_29_imb_end
+                0x081c5e14                _binary_yoshi_island_990907_0_29_mpb_end
+                0x081c347c                _binary_yoshi_island_990907_0_29_imb_start
+                0x081c5bbc                _binary_yoshi_island_990907_0_29_mpb_start
+ .data          0x081c5e14     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_3.o)
+                0x081c8594                _binary_yoshi_island_990907_0_3_mpb_start
+                0x081c8594                _binary_yoshi_island_990907_0_3_imb_end
+                0x081c5e14                _binary_yoshi_island_990907_0_3_imb_start
+                0x081c87ec                _binary_yoshi_island_990907_0_3_mpb_end
+ .data          0x081c87ec     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_30.o)
+                0x081cb244                _binary_yoshi_island_990907_0_30_mpb_end
+                0x081cafec                _binary_yoshi_island_990907_0_30_imb_end
+                0x081c87ec                _binary_yoshi_island_990907_0_30_imb_start
+                0x081cafec                _binary_yoshi_island_990907_0_30_mpb_start
+ .data          0x081cb244     0x2ad8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_31.o)
+                0x081cdac4                _binary_yoshi_island_990907_0_31_mpb_start
+                0x081cdac4                _binary_yoshi_island_990907_0_31_imb_end
+                0x081cb244                _binary_yoshi_island_990907_0_31_imb_start
+                0x081cdd1c                _binary_yoshi_island_990907_0_31_mpb_end
+ .data          0x081cdd1c     0x2b18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_32.o)
+                0x081d05dc                _binary_yoshi_island_990907_0_32_imb_end
+                0x081cdd1c                _binary_yoshi_island_990907_0_32_imb_start
+                0x081d05dc                _binary_yoshi_island_990907_0_32_mpb_start
+                0x081d0834                _binary_yoshi_island_990907_0_32_mpb_end
+ .data          0x081d0834     0x2b18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_33.o)
+                0x081d0834                _binary_yoshi_island_990907_0_33_imb_start
+                0x081d334c                _binary_yoshi_island_990907_0_33_mpb_end
+                0x081d30f4                _binary_yoshi_island_990907_0_33_imb_end
+                0x081d30f4                _binary_yoshi_island_990907_0_33_mpb_start
+ .data          0x081d334c     0x2b58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_34.o)
+                0x081d5c4c                _binary_yoshi_island_990907_0_34_mpb_start
+                0x081d5c4c                _binary_yoshi_island_990907_0_34_imb_end
+                0x081d5ea4                _binary_yoshi_island_990907_0_34_mpb_end
+                0x081d334c                _binary_yoshi_island_990907_0_34_imb_start
+ .data          0x081d5ea4     0x2b58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_35.o)
+                0x081d5ea4                _binary_yoshi_island_990907_0_35_imb_start
+                0x081d87a4                _binary_yoshi_island_990907_0_35_imb_end
+                0x081d87a4                _binary_yoshi_island_990907_0_35_mpb_start
+                0x081d89fc                _binary_yoshi_island_990907_0_35_mpb_end
+ .data          0x081d89fc     0x2b18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_36.o)
+                0x081db2bc                _binary_yoshi_island_990907_0_36_mpb_start
+                0x081db514                _binary_yoshi_island_990907_0_36_mpb_end
+                0x081db2bc                _binary_yoshi_island_990907_0_36_imb_end
+                0x081d89fc                _binary_yoshi_island_990907_0_36_imb_start
+ .data          0x081db514     0x2a98 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_37.o)
+                0x081ddd54                _binary_yoshi_island_990907_0_37_mpb_start
+                0x081db514                _binary_yoshi_island_990907_0_37_imb_start
+                0x081ddfac                _binary_yoshi_island_990907_0_37_mpb_end
+                0x081ddd54                _binary_yoshi_island_990907_0_37_imb_end
+ .data          0x081ddfac     0x2a98 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_38.o)
+                0x081e07ec                _binary_yoshi_island_990907_0_38_imb_end
+                0x081e0a44                _binary_yoshi_island_990907_0_38_mpb_end
+                0x081e07ec                _binary_yoshi_island_990907_0_38_mpb_start
+                0x081ddfac                _binary_yoshi_island_990907_0_38_imb_start
+ .data          0x081e0a44     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_39.o)
+                0x081e3204                _binary_yoshi_island_990907_0_39_mpb_start
+                0x081e0a44                _binary_yoshi_island_990907_0_39_imb_start
+                0x081e3204                _binary_yoshi_island_990907_0_39_imb_end
+                0x081e345c                _binary_yoshi_island_990907_0_39_mpb_end
+ .data          0x081e345c     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_4.o)
+                0x081e5eb4                _binary_yoshi_island_990907_0_4_mpb_end
+                0x081e5c5c                _binary_yoshi_island_990907_0_4_imb_end
+                0x081e5c5c                _binary_yoshi_island_990907_0_4_mpb_start
+                0x081e345c                _binary_yoshi_island_990907_0_4_imb_start
+ .data          0x081e5eb4     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_40.o)
+                0x081e86b4                _binary_yoshi_island_990907_0_40_imb_end
+                0x081e5eb4                _binary_yoshi_island_990907_0_40_imb_start
+                0x081e86b4                _binary_yoshi_island_990907_0_40_mpb_start
+                0x081e890c                _binary_yoshi_island_990907_0_40_mpb_end
+ .data          0x081e890c     0x2ad8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_41.o)
+                0x081eb3e4                _binary_yoshi_island_990907_0_41_mpb_end
+                0x081eb18c                _binary_yoshi_island_990907_0_41_mpb_start
+                0x081eb18c                _binary_yoshi_island_990907_0_41_imb_end
+                0x081e890c                _binary_yoshi_island_990907_0_41_imb_start
+ .data          0x081eb3e4     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_42.o)
+                0x081eb3e4                _binary_yoshi_island_990907_0_42_imb_start
+                0x081ede3c                _binary_yoshi_island_990907_0_42_mpb_end
+                0x081edbe4                _binary_yoshi_island_990907_0_42_mpb_start
+                0x081edbe4                _binary_yoshi_island_990907_0_42_imb_end
+ .data          0x081ede3c     0x2998 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_43.o)
+                0x081f07d4                _binary_yoshi_island_990907_0_43_mpb_end
+                0x081f057c                _binary_yoshi_island_990907_0_43_mpb_start
+                0x081ede3c                _binary_yoshi_island_990907_0_43_imb_start
+                0x081f057c                _binary_yoshi_island_990907_0_43_imb_end
+ .data          0x081f07d4     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_44.o)
+                0x081f2f54                _binary_yoshi_island_990907_0_44_mpb_start
+                0x081f2f54                _binary_yoshi_island_990907_0_44_imb_end
+                0x081f31ac                _binary_yoshi_island_990907_0_44_mpb_end
+                0x081f07d4                _binary_yoshi_island_990907_0_44_imb_start
+ .data          0x081f31ac     0x29d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_45.o)
+                0x081f5b84                _binary_yoshi_island_990907_0_45_mpb_end
+                0x081f592c                _binary_yoshi_island_990907_0_45_imb_end
+                0x081f592c                _binary_yoshi_island_990907_0_45_mpb_start
+                0x081f31ac                _binary_yoshi_island_990907_0_45_imb_start
+ .data          0x081f5b84     0x2a98 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_46.o)
+                0x081f83c4                _binary_yoshi_island_990907_0_46_imb_end
+                0x081f5b84                _binary_yoshi_island_990907_0_46_imb_start
+                0x081f83c4                _binary_yoshi_island_990907_0_46_mpb_start
+                0x081f861c                _binary_yoshi_island_990907_0_46_mpb_end
+ .data          0x081f861c     0x2b98 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_47.o)
+                0x081f861c                _binary_yoshi_island_990907_0_47_imb_start
+                0x081faf5c                _binary_yoshi_island_990907_0_47_imb_end
+                0x081fb1b4                _binary_yoshi_island_990907_0_47_mpb_end
+                0x081faf5c                _binary_yoshi_island_990907_0_47_mpb_start
+ .data          0x081fb1b4     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_48.o)
+                0x081fdc0c                _binary_yoshi_island_990907_0_48_mpb_end
+                0x081fd9b4                _binary_yoshi_island_990907_0_48_imb_end
+                0x081fd9b4                _binary_yoshi_island_990907_0_48_mpb_start
+                0x081fb1b4                _binary_yoshi_island_990907_0_48_imb_start
+ .data          0x081fdc0c     0x2b18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_49.o)
+                0x081fdc0c                _binary_yoshi_island_990907_0_49_imb_start
+                0x082004cc                _binary_yoshi_island_990907_0_49_imb_end
+                0x082004cc                _binary_yoshi_island_990907_0_49_mpb_start
+                0x08200724                _binary_yoshi_island_990907_0_49_mpb_end
+ .data          0x08200724     0x2a98 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_5.o)
+                0x08200724                _binary_yoshi_island_990907_0_5_imb_start
+                0x08202f64                _binary_yoshi_island_990907_0_5_mpb_start
+                0x08202f64                _binary_yoshi_island_990907_0_5_imb_end
+                0x082031bc                _binary_yoshi_island_990907_0_5_mpb_end
+ .data          0x082031bc     0x2ad8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_50.o)
+                0x08205a3c                _binary_yoshi_island_990907_0_50_imb_end
+                0x082031bc                _binary_yoshi_island_990907_0_50_imb_start
+                0x08205c94                _binary_yoshi_island_990907_0_50_mpb_end
+                0x08205a3c                _binary_yoshi_island_990907_0_50_mpb_start
+ .data          0x08205c94     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_51.o)
+                0x08205c94                _binary_yoshi_island_990907_0_51_imb_start
+                0x08208454                _binary_yoshi_island_990907_0_51_mpb_start
+                0x08208454                _binary_yoshi_island_990907_0_51_imb_end
+                0x082086ac                _binary_yoshi_island_990907_0_51_mpb_end
+ .data          0x082086ac     0x2998 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_52.o)
+                0x082086ac                _binary_yoshi_island_990907_0_52_imb_start
+                0x0820adec                _binary_yoshi_island_990907_0_52_imb_end
+                0x0820adec                _binary_yoshi_island_990907_0_52_mpb_start
+                0x0820b044                _binary_yoshi_island_990907_0_52_mpb_end
+ .data          0x0820b044     0x2b18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_53.o)
+                0x0820b044                _binary_yoshi_island_990907_0_53_imb_start
+                0x0820d904                _binary_yoshi_island_990907_0_53_imb_end
+                0x0820d904                _binary_yoshi_island_990907_0_53_mpb_start
+                0x0820db5c                _binary_yoshi_island_990907_0_53_mpb_end
+ .data          0x0820db5c     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_54.o)
+                0x082105b4                _binary_yoshi_island_990907_0_54_mpb_end
+                0x0821035c                _binary_yoshi_island_990907_0_54_mpb_start
+                0x0821035c                _binary_yoshi_island_990907_0_54_imb_end
+                0x0820db5c                _binary_yoshi_island_990907_0_54_imb_start
+ .data          0x082105b4     0x2a58 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_55.o)
+                0x08212db4                _binary_yoshi_island_990907_0_55_imb_end
+                0x0821300c                _binary_yoshi_island_990907_0_55_mpb_end
+                0x08212db4                _binary_yoshi_island_990907_0_55_mpb_start
+                0x082105b4                _binary_yoshi_island_990907_0_55_imb_start
+ .data          0x0821300c     0x2958 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_56.o)
+                0x0821570c                _binary_yoshi_island_990907_0_56_mpb_start
+                0x0821300c                _binary_yoshi_island_990907_0_56_imb_start
+                0x08215964                _binary_yoshi_island_990907_0_56_mpb_end
+                0x0821570c                _binary_yoshi_island_990907_0_56_imb_end
+ .data          0x08215964     0x28d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_57.o)
+                0x08217fe4                _binary_yoshi_island_990907_0_57_imb_end
+                0x0821823c                _binary_yoshi_island_990907_0_57_mpb_end
+                0x08217fe4                _binary_yoshi_island_990907_0_57_mpb_start
+                0x08215964                _binary_yoshi_island_990907_0_57_imb_start
+ .data          0x0821823c     0x2798 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_58.o)
+                0x0821823c                _binary_yoshi_island_990907_0_58_imb_start
+                0x0821a77c                _binary_yoshi_island_990907_0_58_mpb_start
+                0x0821a77c                _binary_yoshi_island_990907_0_58_imb_end
+                0x0821a9d4                _binary_yoshi_island_990907_0_58_mpb_end
+ .data          0x0821a9d4     0x2818 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_59.o)
+                0x0821cf94                _binary_yoshi_island_990907_0_59_imb_end
+                0x0821a9d4                _binary_yoshi_island_990907_0_59_imb_start
+                0x0821cf94                _binary_yoshi_island_990907_0_59_mpb_start
+                0x0821d1ec                _binary_yoshi_island_990907_0_59_mpb_end
+ .data          0x0821d1ec     0x2a18 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_6.o)
+                0x0821d1ec                _binary_yoshi_island_990907_0_6_imb_start
+                0x0821f9ac                _binary_yoshi_island_990907_0_6_imb_end
+                0x0821fc04                _binary_yoshi_island_990907_0_6_mpb_end
+                0x0821f9ac                _binary_yoshi_island_990907_0_6_mpb_start
+ .data          0x0821fc04     0x27d8 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_60.o)
+                0x0821fc04                _binary_yoshi_island_990907_0_60_imb_start
+                0x08222184                _binary_yoshi_island_990907_0_60_mpb_start
+                0x082223dc                _binary_yoshi_island_990907_0_60_mpb_end
+                0x08222184                _binary_yoshi_island_990907_0_60_imb_end
+ .data          0x082223dc     0x2918 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_7.o)
+                0x08224cf4                _binary_yoshi_island_990907_0_7_mpb_end
+                0x08224a9c                _binary_yoshi_island_990907_0_7_imb_end
+                0x082223dc                _binary_yoshi_island_990907_0_7_imb_start
+                0x08224a9c                _binary_yoshi_island_990907_0_7_mpb_start
+ .data          0x08224cf4     0x2898 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_8.o)
+                0x08227334                _binary_yoshi_island_990907_0_8_imb_end
+                0x08224cf4                _binary_yoshi_island_990907_0_8_imb_start
+                0x0822758c                _binary_yoshi_island_990907_0_8_mpb_end
+                0x08227334                _binary_yoshi_island_990907_0_8_mpb_start
+ .data          0x0822758c     0x2898 bmp/islebmp//libislebmp.a(yoshi_island_990907_0_9.o)
+                0x08229bcc                _binary_yoshi_island_990907_0_9_imb_end
+                0x08229bcc                _binary_yoshi_island_990907_0_9_mpb_start
+                0x0822758c                _binary_yoshi_island_990907_0_9_imb_start
+                0x08229e24                _binary_yoshi_island_990907_0_9_mpb_end
+ .data          0x08229e24     0x1000 bmp/menubmp//libmenubmp.a(umi64.o)
+                0x08229e24                _binary_umi64_imb_start
+                0x0822ae24                _binary_umi64_imb_end
+ .data          0x0822ae24      0x400 bmp/menubmp//libmenubmp.a(kumo.o)
+                0x0822ae24                _binary_kumo_imb_start
+                0x0822b224                _binary_kumo_imb_end
+ .data          0x0822b224       0x80 bmp/menubmp//libmenubmp.a(grade.o)
+                0x0822b224                _binary_grade_imb_start
+                0x0822b2a4                _binary_grade_imb_end
+ *(.data.*)
+ *(.gnu.linkonce.d*)
+
+.data1
+ *(.data1)
+
+.ctors
+ *crtbegin.o(.ctors)
+ *(SORT(.ctors.*))
+ *(.ctors)
+
+.dtors
+ *crtbegin.o(.dtors)
+ *(SORT(.dtors.*))
+ *(.dtors)
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.dynamic
+ *(.dynamic)
+
+.sdata
+ *(.sdata)
+                0x0822b2a4                _edata=.
+                0x0822b2a4                PROVIDE (edata, .)
+
+.bss.soundwork  0x02000000     0x1710
+ sound/*(.bss)
+ .bss           0x02000000      0x500 sound/SoundDat.o
+ sound/*(COMMON)
+ COMMON         0x02000500     0x1140 sound/m4aLib.o
+                                  0x0 (size before relaxing)
+                0x02000500                m4a_sound
+                0x020014b0                ExtMPlyJmpTbl
+                0x02001540                m4a_cgbchn
+ COMMON         0x02001640       0xd0 sound/SoundDat.o
+                                  0x0 (size before relaxing)
+                0x02001640                m4a_mplay000
+                0x02001680                m4a_mplay001
+                0x020016c0                m4a_mplay002
+                0x02001700                m4a_memacc_area
+                0x02001710                __bss_start=.
+                0x02001710                __bss_start__=.
+
+.sbss
+ *(.sbss)
+ *(.scommon)
+
+.bss            0x03000000     0x21c0
+ *(.dynbss)
+ *(.bss)
+ .bss           0x03000000       0x10 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+ .bss           0x03000010       0x14 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+ *(.bss.*)
+ .bss.code      0x03000024      0x400 sound/m4aLib.o
+                0x03000024                SoundMainBuf
+ yos_main.o(COMMON)
+ *fill*         0x03000424        0xc
+ COMMON         0x03000430      0xc54 yos_main.o
+                                  0x0 (size before relaxing)
+                0x03000430                IntrTable
+                0x03000470                gMain
+ oam_proc.o(COMMON)
+ *fill*         0x03001084        0xc
+ COMMON         0x03001090     0x1130 oam_proc.o
+                                  0x0 (size before relaxing)
+                0x03001090                OamNode
+                0x03001690                dmaReqNum
+                0x03001694                oamWaitFlg
+                0x030016a0                dmaReqArray
+                0x030019a0                OamList
+                0x030019b0                anmWork
+                0x03001eb0                oamNode_end
+                0x03001ec0                affineWork
+
+.bss1           0x030021c0      0xfa8
+ menu.o(COMMON)
+ COMMON         0x030021c0      0xfa8 menu.o
+                                  0x0 (size before relaxing)
+                0x030021c0                p0_h_org_b
+                0x03002390                p0_h_bg2p
+                0x03002b90                p0_isle_frm
+                0x03002b94                p0_hsy_org
+                0x03002b98                p0_count
+                0x03002ba0                p0_BgBak
+                0x03002fa0                p0_h_tmp_b
+                0x030021c0                __load_start_bss1=LOADADDR(.bss1)
+                0x03003168                __load_stop_bss1=(LOADADDR(.bss1)+SIZEOF(.bss1))
+
+.bss2           0x030021c0     0x3210 load address 0x03003168
+ bg_proc.o(COMMON)
+ COMMON         0x030021c0     0x20cc bg_proc.o
+                                  0x0 (size before relaxing)
+                0x030021c0                Bg1
+                0x030021e0                Bg3
+                0x030021f8                bg2pa
+                0x030021fc                Bg1_Offset_X
+                0x03002200                Biyoon_Count
+                0x03002204                tileY
+                0x03002208                bg2pb
+                0x0300220c                rot_center_x
+                0x03002210                move_val_y
+                0x03002214                MapY
+                0x03002218                scale_x
+                0x03002220                Bg3_ScreenDat
+                0x03002a20                scale_y
+                0x03002a24                SoundSize
+                0x03002a28                Bg3_Offset_Y
+                0x03002a2c                prev_y
+                0x03002a30                Bg1_Offset_Y
+                0x03002a34                Bg_Mode
+                0x03002a38                Sa
+                0x03002a40                Bg2
+                0x03002a58                rot_center_y
+                0x03002a5c                bg2pd
+                0x03002a60                Counter
+                0x03002a64                rotate_value
+                0x03002a70                Bg1_ScreenDat
+                0x03003a70                bg2_center_x
+                0x03003a74                prev_x
+                0x03003a78                bg2pc
+                0x03003a7c                tileX
+                0x03003a80                Bg2_ScreenDat
+                0x03004280                bg2_center_y
+                0x03004284                MapX
+                0x03004288                move_val_x
+ yos_game.o(COMMON)
+ *fill*         0x0300428c        0x4
+ COMMON         0x03004290     0x1140 yos_game.o
+                                  0x0 (size before relaxing)
+                0x03004290                p1_line_count
+                0x030042a0                p1_yoshiWork
+                0x03004448                p1_sub_status
+                0x03004450                p1_kokamekWork
+                0x03004500                p1_eggWork
+                0x03004590                p1_hanabiraWork
+                0x030046f0                p1_effWork
+                0x03004b70                p1_charWork
+                0x030053b0                p1_gGame
+                0x03003168                __load_start_bss2=LOADADDR(.bss2)
+                0x03006378                __load_stop_bss2=(LOADADDR(.bss2)+SIZEOF(.bss2))
+                0x030053d0                .=(ADDR(.bss1)+(SIZEOF(.bss1)7SIZEOF(.bss2)))
+                0x030053d0                .=ALIGN(0x4)
+                0x030053d0                _end=.
+                0x030053d0                _bss_end__=.
+                0x030053d0                __bss_end__=.
+                0x030053d0                PROVIDE (end, .)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment
+ *(.comment)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x1c0
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x20 yos_game.o
+ .debug_aranges
+                0x00000020       0x20 bg_proc.o
+ .debug_aranges
+                0x00000040       0x20 yos_game_sub.o
+ .debug_aranges
+                0x00000060       0x20 yos_game_mov.o
+ .debug_aranges
+                0x00000080       0x20 yos_game_pr.o
+ .debug_aranges
+                0x000000a0       0x20 yos_main.o
+ .debug_aranges
+                0x000000c0       0x20 oam_proc.o
+ .debug_aranges
+                0x000000e0       0x20 menu.o
+ .debug_aranges
+                0x00000100       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+ .debug_aranges
+                0x00000120       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+ .debug_aranges
+                0x00000140       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+ .debug_aranges
+                0x00000160       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+ .debug_aranges
+                0x00000180       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x000001a0       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+
+.debug_pubnames
+                0x00000000     0x117f
+ *(.debug_pubnames)
+ .debug_pubnames
+                0x00000000       0xb6 yos_game.o
+ .debug_pubnames
+                0x000000b6      0x164 yos_game_dat.o
+ .debug_pubnames
+                0x0000021a      0x253 yos_anm.o
+ .debug_pubnames
+                0x0000046d      0x347 bg_proc.o
+ .debug_pubnames
+                0x000007b4      0x1cf yos_game_sub.o
+ .debug_pubnames
+                0x00000983      0x145 yos_game_mov.o
+ .debug_pubnames
+                0x00000ac8       0xf6 yos_game_pr.o
+ .debug_pubnames
+                0x00000bbe       0x66 yos_main.o
+ .debug_pubnames
+                0x00000c24       0x2a yos_main_dat.o
+ .debug_pubnames
+                0x00000c4e       0xd2 oam_proc.o
+ .debug_pubnames
+                0x00000d20       0x96 menu.o
+ .debug_pubnames
+                0x00000db6       0x5d menu_dat.o
+ .debug_pubnames
+                0x00000e13       0x40 bmp/yosbgbmp//libyosbgbmp.a(bg1.o)
+ .debug_pubnames
+                0x00000e53       0x40 bmp/yosbgbmp//libyosbgbmp.a(bg2.o)
+ .debug_pubnames
+                0x00000e93       0x40 bmp/yosbgbmp//libyosbgbmp.a(bg3.o)
+ .debug_pubnames
+                0x00000ed3       0x23 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+ .debug_pubnames
+                0x00000ef6      0x116 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+ .debug_pubnames
+                0x0000100c       0x1f C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+ .debug_pubnames
+                0x0000102b      0x115 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+ .debug_pubnames
+                0x00001140       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+ .debug_pubnames
+                0x00001160       0x1f C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+
+.debug_info     0x00000000    0x3e874
+ *(.debug_info)
+ .debug_info    0x00000000     0x4705 yos_game.o
+ .debug_info    0x00004705     0x4e6e yos_game_dat.o
+ .debug_info    0x00009573     0x8670 yos_anm.o
+ .debug_info    0x00011be3     0x4d8c bg_proc.o
+ .debug_info    0x0001696f     0x4cab yos_game_sub.o
+ .debug_info    0x0001b61a     0x4be8 yos_game_mov.o
+ .debug_info    0x00020202     0x4849 yos_game_pr.o
+ .debug_info    0x00024a4b     0x3198 yos_main.o
+ .debug_info    0x00027be3     0x2df0 yos_main_dat.o
+ .debug_info    0x0002a9d3     0x34c8 oam_proc.o
+ .debug_info    0x0002de9b     0x38d2 menu.o
+ .debug_info    0x0003176d     0x4e9c menu_dat.o
+ .debug_info    0x00036609     0x2683 bmp/yosbgbmp//libyosbgbmp.a(bg1.o)
+ .debug_info    0x00038c8c     0x2683 bmp/yosbgbmp//libyosbgbmp.a(bg2.o)
+ .debug_info    0x0003b30f     0x2683 bmp/yosbgbmp//libyosbgbmp.a(bg3.o)
+ .debug_info    0x0003d992       0xc5 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+ .debug_info    0x0003da57      0x5ee C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+ .debug_info    0x0003e045       0xc1 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+ .debug_info    0x0003e106      0x5ed C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+ .debug_info    0x0003e6f3       0xc1 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+ .debug_info    0x0003e7b4       0xc0 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+
+.debug_abbrev   0x00000000     0x1897
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x1e1 yos_game.o
+ .debug_abbrev  0x000001e1      0x179 yos_game_dat.o
+ .debug_abbrev  0x0000035a      0x188 yos_anm.o
+ .debug_abbrev  0x000004e2      0x226 bg_proc.o
+ .debug_abbrev  0x00000708      0x240 yos_game_sub.o
+ .debug_abbrev  0x00000948      0x232 yos_game_mov.o
+ .debug_abbrev  0x00000b7a      0x1f4 yos_game_pr.o
+ .debug_abbrev  0x00000d6e      0x1ba yos_main.o
+ .debug_abbrev  0x00000f28      0x101 yos_main_dat.o
+ .debug_abbrev  0x00001029      0x1a7 oam_proc.o
+ .debug_abbrev  0x000011d0      0x1ca menu.o
+ .debug_abbrev  0x0000139a      0x112 menu_dat.o
+ .debug_abbrev  0x000014ac       0xdb bmp/yosbgbmp//libyosbgbmp.a(bg1.o)
+ .debug_abbrev  0x00001587       0xdb bmp/yosbgbmp//libyosbgbmp.a(bg2.o)
+ .debug_abbrev  0x00001662       0xdb bmp/yosbgbmp//libyosbgbmp.a(bg3.o)
+ .debug_abbrev  0x0000173d       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_fixunssfsi.o)
+ .debug_abbrev  0x0000175d       0x6d C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(fp-bit.o)
+ .debug_abbrev  0x000017ca       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_muldi3.o)
+ .debug_abbrev  0x000017ea       0x6d C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(dp-bit.o)
+ .debug_abbrev  0x00001857       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x00001877       0x20 C:\PROGRA~1\CYGNUS\THUMBELF-000512\H-I686-CYGWIN32\BIN/../lib/gcc-lib/thumb-elf/2.9-arm-000512/libgcc.a(_negdi2.o)
+
+.debug_line     0x00000000     0x5fdd
+ *(.debug_line)
+ .debug_line    0x00000000      0x907 yos_game.o
+ .debug_line    0x00000907      0xc78 bg_proc.o
+ .debug_line    0x0000157f     0x1196 yos_game_sub.o
+ .debug_line    0x00002715     0x205b yos_game_mov.o
+ .debug_line    0x00004770      0xcbd yos_game_pr.o
+ .debug_line    0x0000542d      0x20c yos_main.o
+ .debug_line    0x00005639      0x24e oam_proc.o
+ .debug_line    0x00005887      0x756 menu.o
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str
+ *(.debug_str)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.stack          0x00080000        0x0
+                0x00080000                _stack=.
+ *(.stack)
+OUTPUT(yoshi.elf elf32-littlearm)
